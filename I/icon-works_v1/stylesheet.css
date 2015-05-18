@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'icon-worksregular';
+    src: url('icon-works-webfont.eot');
+    src: url('icon-works-webfont.eot?#iefix') format('embedded-opentype'),
+         url('icon-works-webfont.woff') format('woff'),
+         url('icon-works-webfont.ttf') format('truetype'),
+         url('icon-works-webfont.svg#icon-worksregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
