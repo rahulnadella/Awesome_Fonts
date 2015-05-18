@@ -1,0 +1,53 @@
+END USER LICENSE AGREEMENT (EULA) - TypeFaith*Fonts
+
+Oudegracht 230
+3511 NT Utrecht 
+The Netherlands
+
+phone +31 30 232 8673 
+info@typefaithfonts.nl 
+www.typefaithfonts.nl
+
+Rabobank 1048.64.974 
+kvk te Utrecht 30106452 
+btw nr 8017.10.340.B.01
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+This is an End User License Agreement (EULA) between you (the End User) and TypeFaith*Fonts. Please read this Agreement carefully. By downloading and/or installing TypeFaith*Fonts font software, you are agreeing to the terms of this license.
+
+The purchase of 1 TypeFaith*Fonts license grants up to 5 users, of a single organization, the right to use a copy of the font software. Copies may be made for archival purposes. This software is copyrighted and contains intellectual property information protected by law. You are not allowed to reproduce, sell, transfer, license, give away or otherwise distribute the TypeFaith*Fonts font software in any form.
+
+Multi-users license agreement
+If more than 5 users will be using the TypeFaith*Fonts software, you are required to purchase a multi-users license using the following table as a reference.
+
+• 1-5 users:	1 license 
+• 6-10 users: 	2 licenses 
+• 11-25 users: 	3 licenses 
+• 26-50 users: 	4 licenses 
+• 51+ users:	5 licenses
+
+Third Party Use
+You may not provide the font to third party such as a praphic designer, printer or other service bureau that is working on your behalf. Embedding the font software into pdf documents is permitted.
+You may not make, authorize or commission a third party to make, customized versions of the Font Software for use by your clients without the written consent of TypeFaith*Fonts.
+
+Embedding
+Embedding of TypeFaith*Fonts font software into documents or internet pages is permitted using any technique, including @font- face, under the following conditions:
+A You must use the provided web-only version of the licensed font
+(Web Font). Linking to the full, licensed CFF OpenType font
+designed for desktop installation is prohibited.
+B You must include the commented header showing license and
+copyright information in the provided CSS file.
+C The Web Font may only be installed on web site domains that are under the direct control of the licensee.
+
+Ownership
+This TypeFaith*Fonts font software is copyrighted and contains intellectual property information protected by the laws of The Netherlands, by the copyright and design laws of other nations, and by international treaties. Any copyright and other rights belong to TypeFaith Fonts. This agreement does not give you the copyright to the design of the font software, but the rights to use the fonts. You may not distribute, reproduce, sell, transfer, license, or give away your adaptations.
+
+Modification
+You are not allowed to modify, adapt, translate, reverse engineer, decompile, disassemble, alter or otherwise copy the TypeFaith* Fonts software for personal and business use. Alterations to outlines for the use of logos and design elements are not considered to be a modification of Font Software and are permitted.
+
+Termination
+TypeFaith*Fonts has the right to terminate your license immediately if you fail to comply with any term of this Agreement. Upon termination you must destroy the original and any copies of the Font Software and documentation.
+
+Disclaimer and Warranty
+TypeFaith*Fonts makes no warranties, express or implied as to merchantability, fitness for a particular purpose, or otherwise. without limiting the foregoing, emigre shall in no event be liable to the licensed user or any other third party for any direct, indirect, consequential, or incidental damages, including damages from loss of business profits, business interruption, loss of business information, arising out of the use or inability to use the product even if notified in advance. Under no circumstances shall TypeFaith*Fonts's liability exceed the replacement cost of the software.
