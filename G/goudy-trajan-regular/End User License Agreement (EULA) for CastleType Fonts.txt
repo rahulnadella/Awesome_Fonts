@@ -1,0 +1,55 @@
+In plain English: 
+Do not resell or give away CastleType fonts; do not embed them on your website, in ebooks, etc. (that requires a separate license*); do not modify them. Up to five people can use one licensed font on any combination of platforms (Macintosh, Windows, Unix, etc.). That's it in a nutshell. If you have questions, please do not hesitate to contact me. See below for the legaleze.
+
+*Please note: All CastleType fonts are now available for licensing as webfonts and/or for ebook and applications at Fontspring. 
+
+
+End User License Agreement 
+
+By downloading software from CastleType, you are agreeing to be bound by the terms of this Agreement. This Agreement, in conjunction with the receipt that accompanies each purchase from CastleType.com ("CastleType"), constitutes the complete agreement between you and CastleType.
+
+1. Allowed uses 
+You may use the licensed fonts to create images on any surface, including, but not limited to: computer screens, paper, web pages, photographs, movie credits, broadcasting, printed material, T-shirts, and other surfaces where the image is a fixed size. 
+
+You may use the licensed fonts to create EPS files or other scalable drawings provided that such files are only used by the household or company licensing the font. 
+
+2. Number of users 
+The maximum number of simultaneous users is five (5). All users must belong to the same company or household purchasing the font. Font licensing can be upgraded to include more users. Please contact info@castletype.com for further information. 
+
+3. Third parties 
+You may provide the font to a graphic designer, printer or other service bureau that is working on your behalf only if they agree to use the font exclusively for your work, agree to the terms of this license, and retain no copies of the font on completion of the work. 
+
+You may not provide the font to, or make it accessible to, any other third parties. 
+
+4. Embedding 
+You may embed the licensed fonts into any document you send to third parties. Such documents may be viewed and printed (but not edited) by the recipients. You may not embed fonts on your website. 
+
+You may not under any circumstances embed the licensed fonts into software or hardware products in which the fonts will be used by the purchasers of such products. Such use requires a different license which can be obtained from CastleType. Please contact info@castletype.com for further information. 
+
+5. Modifications 
+You may import characters from the font as graphical objects into a drawing program and modify such graphical objects.
+
+You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the licensed font itself without the CastleType's prior written consent. 
+
+6. Copyright 
+The font and the accompanying materials are copyrighted and contain proprietary information and trade secrets belonging to CastleType. Unauthorized copying of the licensed fonts even if modified, merged, or included with other software, or of the written materials, is expressly forbidden. You may be held legally responsible for any infringement of CastleType's intellectual property rights that is caused or encouraged by your failure to abide by the terms of this Agreement. 
+
+7. Termination 
+This Agreement is effective until terminated. This Agreement will terminate automatically without notice from CastleType if you fail to comply with any provision contained herein. Upon termination, you must destroy the written materials, the licensed fonts, and all copies of them, in part and in whole, including modified copies, if any. 
+
+8. Upgrades 
+CastleType may, from time to time, update the licensed fonts. Upgrade pricing may apply. Subscribe to the CastleType newsletter, or follow CastleType on Twitter, to be informed of updates. 
+
+9. Disclaimer and Limited Warranty 
+CastleType warrants the licensed fonts to be free from defects in materials and workmanship under normal use for a period of twenty one (21) days from the date of delivery as shown on your receipt. CastleType's entire liability and your exclusive remedy as to a defective product shall be, at CastleType's option, either return of purchase price or replacement of any such product that is returned to CastleType with a copy of the invoice. CastleType shall have no responsibility to replace the product or refund the purchase price if failure results from accident, abuse or misapplication, or if any product is lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for twenty one (21) days. This warranty gives you specific legal rights. You may have other rights, which vary from state to state. 
+
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE PRODUCT, IS PROVIDED "AS IS". CASTLETYPE DOES NOT MAKE ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The entire risk as to the quality and performance of the licensed fonts rests upon you. CastleType does not warrant that the functions contained in the licensed fonts will meet your requirements or that the operation of the software will be uninterrupted or error free. 
+
+CASTLETYPE SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT EVEN IF CASTLETYPE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you. 
+
+10. Governing Law 
+This agreement is governed by the laws of the United States of America and the State of California.
