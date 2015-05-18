@@ -1,0 +1,9 @@
+This is an agreement between you, the purchaser, and Philatype. In accepting the terms of this agreement, you acknowledge understanding and promise to comply with its terms. If you do not accept the terms, please do not complete the purchase transaction.
+
+What you are purchasing from Philatype is the license to use digital typeface software - hereafter 'fonts' - on a certain number of computers within your organization; you are not purchasing the copyright to the design of the fonts, but the rights to use the fonts. You may not sublicense, sell, lease, or give away the fonts.
+
+You are purchasing the non-exclusive and non-transferable license to use fonts on a certain number of computers within your organization. If you are purchasing 1 license, you may use the fonts on a maximum of 5 computers. You can purchase additional licenses at any time, which grant you the rights to use the fonts on additional computers, as noted above.
+
+You can make archival copies of the fonts for your own purposes. You will not distribute the fonts to people outside of your organization. A copy of the fonts may be sent as part of a file release to a prepress bureau, if absolutely necessary. The fonts can be embedded in other software files, such as Portable Document Format (PDF) or Flash files, but you will take all reasonable care to embed the fonts in such a way that they cannot be extracted from the files you create.
+
+You may modify the fonts for your own purposes, but the copyright remains with Philatype, and the number of computers covered by the license remains the same. You may not commission a third party to modify the fonts without first gaining permission from Philatype.
