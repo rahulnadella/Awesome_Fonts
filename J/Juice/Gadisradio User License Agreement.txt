@@ -1,0 +1,23 @@
+Gadisradio Inc.
+END USER LICENSE AGREEMENT
+
+This Gadisradio Inc. End User Agreement becomes a binding contract between you and Gadisradio Inc. (a) when you click on the area marked 'ACCEPT LICENSE AGREEMENT', or, (b) if you are acquiring Font Software on a floppy disk, when you open the package in which the font is contained. 
+
+If you do not wish to be bound by the Agreement, you cannot access, use or download the Font Software. 
+
+Please read all of the Agreement before you agree to be bound by its terms and conditions.
+
+You may install and Use the Font Software on a single file server for Use on a single local area network ('LAN') only when the Use of such Font Software is limited to the Workstations and printers that are part of the Licensed Unit of which the server is a part. 
+
+You may take a digitized copy of the Font Software used for a particular document, or Font Software embedded in an electronic document, to a commercial printer or service bureau for use by the printer or service in printing such document but only if the printer or service bureau represents to you that it has purchased or been granted a license to use that particular Font Software.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ('Fonts') and associated documentation files (the 'Font Software'), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so.
+
+The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.
+
+The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words 'JUICE'.
+
+Copyright (c) 2009 by Gadisradio, Inc. All Rights Reserved. JUICE typefamilysets is a trademark of Gadisradio, Inc. registered in the INA Patent and Trademark Office and elsewhere.
+
+All inquiries may be sent via e-mail to:
+ynahd_21586@yahoo.com
