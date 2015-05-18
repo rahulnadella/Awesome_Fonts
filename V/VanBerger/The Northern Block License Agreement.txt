@@ -1,0 +1,8 @@
+T.N.B. End User License Agreement
+
+The Northern Block free fonts are free to use in your designs, commercial or non commercial. While they are free, they are not in the public domain and remain in the exclusive property of The Northern Block.
+The free and non free TNB - fonts may not be redistributed in any way (they may not be resold, distributed commercially, they may not be made available for download) without the written permission of The Northern Block. TNB shall, in no event, be liable for any damages arising out of the usage of The Northern Block fonts. 
+
+You can embed the freeware fonts into HTML web pages only for the purpose of typesetting using @font-face CSS rules. The fonts must not be made downloadable using this process.
+
+We like to see what you are doing with our fonts. Please email PDFs, screen grabs, digital photos and files to: info@thenorthernblock.co.uk
