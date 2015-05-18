@@ -1,0 +1,26 @@
+MartinPlus Typefaces
+Font Software License Agreement
+
+
+By installing and or using MartinPlus Typefaces you agree to the following:
+- - -
+This font is for personal and commercial use
+- - -
+Embedding (in PDF's, Flash files and programs) is permitted
+- - -
+Using this font software for a @font-face declaration is permitted
+- - -
+This font software may not be re-distributed or sold, neither online nor on any other media, without written permission of MartinPlus
+- - -
+This font software may not modified or adjusted in any way, and its character set may not be reduced or enlarged without written permission of MartinPlus
+- - -
+This font is and remains the intellecual property of MartinPlus
+- - -
+MartinPlus makes no warranties express or implied as to merchantability, fitness for  a particular purpose, or otherwise. Without limiting the aforementioned, MartinPlus  shall in no event be liable for any direct, indirect, consequential, or incidental damages, including damages from loss of business profits, business interruption, and loss of business information, arising out of the use or inability to use the product.
+- - -
+Any violation by the licensee of this agreement shall cause this license to be terminated immediately
+- - -
+Thanks for respecting this agreement
+
+
+© 2008 Martin Wenzel, MartinPlus.com
