@@ -1,0 +1,19 @@
+UPDATE: American Captain is ready for BUY NOW & IMMEDIATE DOWNLOAD via secure paypal checkout.
+http://thefontry.com/americancaptain
+
+UPDATE TO LANGUAGE SUPPORT: This freeware version now includes uppercase GREEK and CYRILLIC letters. 
+
+UPDATE: American Captain is now available in commercial form as a 6-FONT FAMILY with complete character sets and language support for Central European characters, Cyrillic, Greek and Hebrew. OpenType features include: small caps, fractions, stylistic sets, glyph replacements, etc. Now back to our freebie ... 
+
+American Captain by Michael G. Adkins 
+
+So here we go with the descriptions again. To describe my new font, American Captain, the boring part of my brain tells me to use staid words like narrow and bold, sharp yet blunt, heavy and tall; but deep within the creative side of my brain, there's a smouldering nugget of inspiration that tells me this font deserves something more. Why bother to explain things you can clearly see with your own eyes, when what you might not be aware of is this font's unique origins. What you might not know is that it dates back to at least the 1940s. It's even possible you don't understand how this font has been reborn and revamped and revitalized by generations of sign-painters and hand-letterers and determined font guys like myself who just can't let this thing go. 
+
+This font represents the unparalleled strength of one man who saved an entire world from the crushing yoke of tyranny. This man was an outstanding captain of men, an American patriot of unquestionable calibre. And within this font is captured his fighting spirit, his unyielding determination. This face is dedicated to him, the captain America knows and respects, the captain America font designers like myself strive to symbolize in their work. So enjoy the power that is the font I call, American Captain. 
+
+For commercial use please feel free to contact us for price, links and details at: 
+the_fontry@yahoo.com 
+
+or visit the Fontry website 
+http://www.thefontry.com/ 
+

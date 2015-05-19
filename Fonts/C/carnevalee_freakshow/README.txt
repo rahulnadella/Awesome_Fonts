@@ -1,0 +1,6 @@
+Carnivalee Freakshow font by Chris Hansen, all rights reserved 2004
+
+Contact
+Crizcrack_666@hotmail.com
+
+www.geocities.com/crizcrack666

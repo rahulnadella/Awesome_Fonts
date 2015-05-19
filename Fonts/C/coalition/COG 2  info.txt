@@ -1,0 +1,41 @@
+Coalition (Of Governments) -- Version 2.5
+
+April 2012 Release
+
+Windows/Mac TrueType
+
+Upper Case: Decayed type
+Lower Case: Solid type
+
+Made as a homage to the excellent Gears of War series of Games for the Xbox 360 and PC.
+All relevant copyrights are Epic Games, Microsoft etc.
+
+TracerTong - www.tracertong.co.uk
+
+#####################################################################
+ Due to the complexity of this font
+ Double-clicking this to preview may take a while to open fully!
+ Even if you have a shitstormin' badass rig, this can still be slow!
+
+ You have been warned :)
+#####################################################################
+
+Change Log:
+
+April '14	1/2 1/3 and 3/4 glyphs added
+
+April '12	Lowercase A and S (solid) fixed as per request, now easier on the eye
+
+22nd Feb '12	Pound Sterling £ and Euro € symbols added
+
+18th Jan '12	Gears Blood Omen logo removed
+
+27th July '11	Created a load of new kerning pairs (Uppercase only)
+
+1st June '11 - 	This version replaces the August 2010 release, see below...
+		- Tidied up some minor kerning issues
+		- Added several new glyphs
+		- Added Euro characters
+
+16th Aug '10 - 	Shortened name to Coalition
+		Initial Release
