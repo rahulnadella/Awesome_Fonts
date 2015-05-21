@@ -1,5 +1,29 @@
 # A Fonts
 
+###A_Dripping_Marker
+
+[A_Dripping_Marker](../../Fonts/A/a_dripping_marker)
+
+<img src="A_Dripping_Marker.png" width="710" height="100" />
+
+###A_Gentle_Touch
+
+[A_Gentle_Touch](../../Fonts/A/a_gentle_touch)
+
+<img src="A_Gentle_Touch.png" width="710" height="100" />
+
+###A_Little_Sunshine
+
+[A_Little_Sunshine](../../Fonts/A/a_little_sunshine)
+
+<img src="A_Little_Sunshine.png" width="710" height="100" />
+
+###A_Little_Swag
+
+[A_Little_Swag](../../Fonts/A/a_little_swag)
+
+<img src="A_Little_Swag.png" width="710" height="100" />
+
 ###Aaargh
 
 [Aaargh](../../Fonts/A/Aaargh)
@@ -24,6 +48,24 @@
 
 <img src="Acknowledgement.png" width="710" height="100" />
 
+###Across_the_Road
+
+[Across_the_Road](../../Fonts/A/across_the_road)
+
+<img src="Across_the_Road.png" width="710" height="100" />
+
+###Acryle_Script
+
+[Acryle_Script](../../Fonts/A/acryle_script)
+
+<img src="Acryle_Script.png" width="710" height="100" />
+
+###Action_Comics
+
+[Action_Comics](../../Fonts/A/action_comics)
+
+<img src="Action_Comics.png" width="710" height="100" />
+
 ###Action-Man
 
 [Action-Man](../../Fonts/A/Action-Man)
@@ -35,6 +77,18 @@
 [Adhesive-Nr.-Seven](../../Fonts/A/Adhesive-Nr.-Seven)
 
 <img src="Adhesive-Nr.-Seven.png" width="710" height="100" />
+
+###Admiration_Pains
+
+[Admiration_Pains](../../Fonts/A/admiration_pains)
+
+<img src="Admiration_Pains.png" width="710" height="100" />
+
+###Adventure
+
+[Adventure](../../Fonts/A/adventure)
+
+<img src="Adventure.png" width="710" height="100" />
 
 ###afta sans
 
@@ -54,6 +108,12 @@
 
 <img src="Action-Shok.png" width="710" height="100" />
 
+###Agent Orange
+
+[Agent Orange](../../Fonts/A/agent_orange)
+
+<img src="Agent_Orange.png" width="710" height="100" />
+
 ###aguafina script
 
 [aguafina script](../../Fonts/A/aguafina-script)
@@ -71,6 +131,12 @@
 [Airstream](../../Fonts/A/Airstream)
 
 <img src="Airstream.png" width="710" height="100" />
+
+###Akbaal
+
+[Akbaal](../../Fonts/A/akbaal)
+
+<img src="Akbaal.png" width="710" height="100" />
 
 ###alegreya
 
@@ -102,6 +168,12 @@
 
 <img src="alfa-slab.png" width="710" height="100" />
 
+###Alhambra
+
+[Alhambra](../../Fonts/A/alhambra)
+
+<img src="Alhambra.png" width="710" height="100" />
+
 ###Aller
 
 [Aller](../../Fonts/A/Aller)
@@ -126,6 +198,18 @@
 
 <img src="Alpha-Echo.png" width="710" height="100" />
 
+###Always_forever
+
+[Always_forever](../../Fonts/A/always_forever)
+
+<img src="Always_forever.png" width="710" height="100" />
+
+###Always_In_My_Heart
+
+[Always_In_My_Heart](../../Fonts/A/always_in_my_heart)
+
+<img src="Always_In_My_Heart.png" width="710" height="100" />
+
 ###Amadeus
 
 [Amadeus](../../Fonts/A/Amadeus)
@@ -144,11 +228,17 @@
 
 <img src="amatic.png" width="710" height="100" />
 
-###amble
+###American_Captain
 
-[amble](../../Fonts/A/amble)
+[American_Captain](../../Fonts/A/american_captain)
 
-<img src="amble.png" width="710" height="100" />
+<img src="American_Captain.png" width="710" height="100" />
+
+###almendra
+
+[almendra](../../Fonts/A/almendra)
+
+<img src="almendra.png" width="710" height="100" />
 
 ###Amerika
 
@@ -173,6 +263,36 @@
 [Andika Basic](../../Fonts/A/Andika-Basic)
 
 <img src="Andika-Basic.png" width="710" height="100" />
+
+###Android
+
+[Android](../../Fonts/A/android)
+
+<img src="Android.png" width="710" height="100" />
+
+###Angelface
+
+[Angelface](../../Fonts/A/Angelface)
+
+<img src="Angelface.png" width="710" height="100" />
+
+###Angelina
+
+[Angelina](../../Fonts/A/angelina)
+
+<img src="Angelina.png" width="710" height="100" />
+
+###Angilla_Tattoo
+
+[Angilla_Tattoo](../../Fonts/A/angilla_tattoo)
+
+<img src="Angilla_Tattoo.png" width="710" height="100" />
+
+###Angry_Birds
+
+[Angry_Birds](../../Fonts/A/angrybirds)
+
+<img src="Angry_Birds.png" width="710" height="100" />
 
 ###Anonymous
 
@@ -276,6 +396,18 @@
 
 <img src="asap.png" width="710" height="100" />
 
+###Assassin
+
+[Assassin](../../Fonts/A/assassin)
+
+<img src="Assassin.png" width="710" height="100" />
+
+###Atlantic_Cruise
+
+[Atlantic_Cruise](../../Fonts/A/atlantic_cruise)
+
+<img src="Atlantic_Cruise.png" width="710" height="100" />
+
 ###Audimat Mono
 
 [Audimat Mono](../../Fonts/A/Audimat-Mono)
@@ -300,11 +432,23 @@
 
 <img src="autour-one.png" width="710" height="100" />
 
+###Avengeance
+
+[Avengeance](../../Fonts/A/avengeance)
+
+<img src="Avengeance_Heroic.png" width="710" height="100" />
+
 ###azoft sans
 
 [azoft sans](../../Fonts/A/azoft-sans)
 
 <img src="azoft-sans.png" width="710" height="100" />
+
+###Azteques
+
+[Azteques](../../Fonts/A/azteques)
+
+<img src="Azteques.png" width="710" height="100" />
 
 ###Arch Rival
 
