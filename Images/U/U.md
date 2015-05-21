@@ -58,18 +58,6 @@
 
 <img src="Underwood-Champion.png" width="710" height="100" />
 
-###uni-05_53
-
-[uni-05_53](../../Fonts/U/uni-05_53)
-
-<img src="uni-05_53.png" width="710" height="100" />
-
-###Unibody-8
-
-[Unibody-8](../../Fonts/U/Unibody-8)
-
-<img src="Unibody-8.png" width="710" height="100" />
-
 ###Universal-fruitcake
 
 [Universal-fruitcake](../../Fonts/U/Universal-fruitcake)

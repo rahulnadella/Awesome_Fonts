@@ -4,12 +4,6 @@
 
 <img src="EastMarket.png" width="710" height="100" />
 
-###Eau
-
-[Eau](../../Fonts/E/Eau)
-
-<img src="Eau.png" width="710" height="100" />
-
 ###eb-garamond
 
 [eb-garamond](../../Fonts/E/eb-garamond)
@@ -76,47 +70,11 @@
 
 <img src="entypo.png" width="710" height="100" />
 
-###Envy-Code-R
-
-[Envy-Code-R](../../Fonts/E/Envy-Code-R)
-
-<img src="Envy-Code-R.png" width="710" height="100" />
-
-###EPF
-
-[EPF](../../Fonts/E/EPF)
-
-<img src="EPF.png" width="710" height="100" />
-
-###epocaclassic
-
-[epocaclassic](../../Fonts/E/epocaclassic)
-
-<img src="epocaclassic.png" width="710" height="100" />
-
-###equip
-
-[equip](../../Fonts/E/equip)
-
-<img src="equip.png" width="710" height="100" />
-
 ###Eraser
 
 [Eraser](../../Fonts/E/Eraser)
 
 <img src="Eraser.png" width="710" height="100" />
-
-###erato
-
-[erato](../../Fonts/E/erato)
-
-<img src="erato.png" width="710" height="100" />
-
-###espinosa-nova
-
-[espinosa-nova](../../Fonts/E/espinosa-nova)
-
-<img src="espinosa-nova.png" width="710" height="100" />
 
 ###euphoria-script
 
@@ -130,12 +88,6 @@
 
 <img src="Existence-Light.png" width="710" height="100" />
 
-###exo-condensed-expanded
-
-[exo-condensed-expanded](../../Fonts/E/exo-condensed-expanded)
-
-<img src="exo-condensed-expanded.png" width="710" height="100" />
-
 ###exo
 
 [exo](../../Fonts/E/exo)
@@ -147,9 +99,3 @@
 [exotica](../../Fonts/E/exotica)
 
 <img src="exotica.png" width="710" height="100" />
-
-###expressway
-
-[expressway](../../Fonts/E/expressway)
-
-<img src="expressway.png" width="710" height="100" />

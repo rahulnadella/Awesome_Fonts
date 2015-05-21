@@ -1,9 +1,3 @@
-###icon-works
-
-[icon-works](../../Fonts/I/icon-works)
-
-<img src="icon-works.png" width="710" height="100" />
-
 ###Idolwild
 
 [Idolwild](../../Fonts/I/Idolwild)
@@ -64,23 +58,11 @@
 
 <img src="Impact-Label.png" width="710" height="100" />
 
-###impara
-
-[impara](../../Fonts/I/impara)
-
-<img src="impara.png" width="710" height="100" />
-
 ###Inconsolata
 
 [Inconsolata](../../Fonts/I/Inconsolata)
 
 <img src="Inconsolata.png" width="710" height="100" />
-
-###Indento
-
-[Indento](../../Fonts/I/Indento)
-
-<img src="Indento.png" width="710" height="100" />
 
 ###inder
 
@@ -93,12 +75,6 @@
 [Indubitably](../../Fonts/I/Indubitably)
 
 <img src="Indubitably.png" width="710" height="100" />
-
-###Insolent
-
-[Insolent](../../Fonts/I/Insolent)
-
-<img src="Insolent.png" width="710" height="100" />
 
 ###Intruder-Alert
 

@@ -112,20 +112,8 @@
 
 <img src="WinterthurCondensed.png" width="710" height="100" />
 
-###Wireframe
-
-[Wireframe](../../Fonts/W/Wireframe)
-
-<img src="Wireframe.png" width="710" height="100" />
-
 ###WoodenNickelBlack
 
 [WoodenNickelBlack](../../Fonts/W/WoodenNickelBlack)
 
 <img src="WoodenNickelBlack.png" width="710" height="100" />
-
-###Worstveld-Sling
-
-[Worstveld-Sling](../../Fonts/W/Worstveld-Sling)
-
-<img src="Worstveld-Sling.png" width="710" height="100" />

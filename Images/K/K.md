@@ -64,12 +64,6 @@
 
 <img src="KelmscottRoman.png" width="710" height="100" />
 
-###kelson
-
-[kelson](../../Fonts/K/kelson)
-
-<img src="kelson.png" width="710" height="100" />
-
 ###Kingthings-Calligraphica
 
 [Kingthings-Calligraphica](../../Fonts/K/Kingthings-Calligraphica)
@@ -160,12 +154,6 @@
 
 <img src="Kitchen-police.png" width="710" height="100" />
 
-###klartext-mono
-
-[klartext-mono](../../Fonts/K/klartext-mono)
-
-<img src="klartext-mono.png" width="710" height="100" />
-
 ###Know-Your-Product
 
 [Know-Your-Product](../../Fonts/K/Know-Your-Product)
@@ -231,9 +219,3 @@
 [kristi](../../Fonts/K/kristi)
 
 <img src="kristi.png" width="710" height="100" />
-
-###kuro
-
-[kuro](../../Fonts/K/kuro)
-
-<img src="kuro.png" width="710" height="100" />

@@ -16,12 +16,6 @@
 
 <img src="Samba.png" width="710" height="100" />
 
-###sanchez
-
-[sanchez](../../Fonts/S/sanchez)
-
-<img src="sanchez.png" width="710" height="100" />
-
 ###sansation
 
 [sansation](../../Fonts/S/sansation)
@@ -106,18 +100,6 @@
 
 <img src="sedgwick-co.png" width="710" height="100" />
 
-###selfish
-
-[selfish](../../Fonts/S/selfish)
-
-<img src="selfish.png" width="710" height="100" />
-
-###Serif-Beta
-
-[Serif-Beta](../../Fonts/S/Serif-Beta)
-
-<img src="Serif-Beta.png" width="710" height="100" />
-
 ###Sesquipedalian
 
 [Sesquipedalian](../../Fonts/S/Sesquipedalian)
@@ -178,12 +160,6 @@
 
 <img src="short-stack.png" width="710" height="100" />
 
-###shortcut
-
-[shortcut](../../Fonts/S/shortcut)
-
-<img src="shortcut.png" width="710" height="100" />
-
 ###sigmar
 
 [sigmar](../../Fonts/S/sigmar)
@@ -207,12 +183,6 @@
 [simonetta](../../Fonts/S/simonetta)
 
 <img src="simonetta.png" width="710" height="100" />
-
-###sina-nova
-
-[sina-nova](../../Fonts/S/sina-nova)
-
-<img src="sina-nova.png" width="710" height="100" />
 
 ###sinkin-sans
 
@@ -243,18 +213,6 @@
 [Sjonarbok-Classic](../../Fonts/S/Sjonarbok-Classic)
 
 <img src="Sjonarbok-Classic.png" width="710" height="100" />
-
-###Sketchetica
-
-[Sketchetica](../../Fonts/S/Sketchetica)
-
-<img src="Sketchetica.png" width="710" height="100" />
-
-###skyhook-mono
-
-[skyhook-mono](../../Fonts/S/skyhook-mono)
-
-<img src="skyhook-mono.png" width="710" height="100" />
 
 ###slabo
 
@@ -310,18 +268,6 @@
 
 <img src="sofia-pro-condensed.png" width="710" height="100" />
 
-###sofia-pro
-
-[sofia-pro](../../Fonts/S/sofia-pro)
-
-<img src="sofia-pro.png" width="710" height="100" />
-
-###sofia
-
-[sofia](../../Fonts/S/sofia)
-
-<img src="sofia.png" width="710" height="100" />
-
 ###Soft-Sugar-plain
 
 [Soft-Sugar-plain](../../Fonts/S/Soft-Sugar-plain)
@@ -333,18 +279,6 @@
 [sonsie-one](../../Fonts/S/sonsie-one)
 
 <img src="sonsie-one.png" width="710" height="100" />
-
-###sonus
-
-[sonus](../../Fonts/S/sonus)
-
-<img src="sonus.png" width="710" height="100" />
-
-###SorbetLTD
-
-[SorbetLTD](../../Fonts/S/SorbetLTD)
-
-<img src="SorbetLTD.png" width="710" height="100" />
 
 ###Sorts-Mill-Goudy
 
@@ -376,18 +310,6 @@
 
 <img src="source-serif-pro.png" width="710" height="100" />
 
-###Sovba-Regular
-
-[Sovba-Regular](../../Fonts/S/Sovba-Regular)
-
-<img src="Sovba-Regular.png" width="710" height="100" />
-
-###sovereign-regular
-
-[sovereign-regular](../../Fonts/S/sovereign-regular)
-
-<img src="sovereign-regular.png" width="710" height="100" />
-
 ###special-elite
 
 [special-elite](../../Fonts/S/special-elite)
@@ -418,47 +340,17 @@
 
 <img src="spinwerad.png" width="710" height="100" />
 
-###spirequal-Light
-
-[spirequal-Light](../../Fonts/S/spirequal-Light)
-
-<img src="spirequal-Light.png" width="710" height="100" />
-
 ###sportrop
 
 [sportrop](../../Fonts/S/sportrop)
 
 <img src="sportrop.png" width="710" height="100" />
 
-###sports-world
-
-[sports-world](../../Fonts/S/sports-world)
-
-<img src="sports-world.png" width="710" height="100" />
-
-###springsteel-serif
-
-[springsteel-serif](../../Fonts/S/springsteel-serif)
-
-<img src="springsteel-serif.png" width="710" height="100" />
-
-###Springsteel
-
-[Springsteel](../../Fonts/S/Springsteel)
-
-<img src="Springsteel.png" width="710" height="100" />
-
 ###st-marie
 
 [st-marie](../../Fonts/S/st-marie)
 
 <img src="st-marie.png" width="710" height="100" />
-
-###st-ryde
-
-[st-ryde](../../Fonts/S/st-ryde)
-
-<img src="st-ryde.png" width="710" height="100" />
 
 ###stardos-stencil
 
@@ -471,12 +363,6 @@
 [stateface](../../Fonts/S/stateface)
 
 <img src="stateface.png" width="710" height="100" />
-
-###steelfish
-
-[steelfish](../../Fonts/S/steelfish)
-
-<img src="steelfish.png" width="710" height="100" />
 
 ###Streetwise-buddy
 

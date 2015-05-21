@@ -22,30 +22,6 @@
 
 <img src="quattrocento-sans.png" width="710" height="100" />
 
-###qubo
-
-[qubo](../../Fonts/Q/qubo)
-
-<img src="qubo.png" width="710" height="100" />
-
-###questa-grande
-
-[questa-grande](../../Fonts/Q/questa-grande)
-
-<img src="questa-grande.png" width="710" height="100" />
-
-###questa-sans
-
-[questa-sans](../../Fonts/Q/questa-sans)
-
-<img src="questa-sans.png" width="710" height="100" />
-
-###questa
-
-[questa](../../Fonts/Q/questa)
-
-<img src="questa.png" width="710" height="100" />
-
 ###questrial
 
 [questrial](../../Fonts/Q/questrial)
@@ -69,12 +45,6 @@
 [QuigleyWiggly](../../Fonts/Q/QuigleyWiggly)
 
 <img src="QuigleyWiggly.png" width="710" height="100" />
-
-###Quilline-Script-Thin
-
-[Quilline-Script-Thin](../../Fonts/Q/Quilline-Script-Thin)
-
-<img src="Quilline-Script-Thin.png" width="710" height="100" />
 
 ###qumpellkano12
 

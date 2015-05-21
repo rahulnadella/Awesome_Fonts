@@ -34,12 +34,6 @@
 
 <img src="Lane.png" width="710" height="100" />
 
-###langdon
-
-[langdon](../../Fonts/L/langdon)
-
-<img src="langdon.png" width="710" height="100" />
-
 ###Latin-Modern-Mono
 
 [Latin-Modern-Mono](../../Fonts/L/Latin-Modern-Mono)
@@ -184,18 +178,6 @@
 
 <img src="linden-hill.png" width="710" height="100" />
 
-###linotte
-
-[linotte](../../Fonts/L/linotte)
-
-<img src="linotte.png" width="710" height="100" />
-
-###lintel
-
-[lintel](../../Fonts/L/lintel)
-
-<img src="lintel.png" width="710" height="100" />
-
 ###Lintsec
 
 [Lintsec](../../Fonts/L/Lintsec)
@@ -238,12 +220,6 @@
 
 <img src="Lobster.png" width="710" height="100" />
 
-###lolita
-
-[lolita](../../Fonts/L/lolita)
-
-<img src="lolita.png" width="710" height="100" />
-
 ###londrina
 
 [londrina](../../Fonts/L/londrina)
@@ -256,13 +232,7 @@
 
 <img src="lora.png" width="710" height="100" />
 
-###lovato
-
-[lovato](../../Fonts/L/lovato)
-
-<img src="lovato.png" width="710" height="100" />
-
-###lovers-quarrel
+##lovers-quarrel
 
 [lovers-quarrel](../../Fonts/L/lovers-quarrel)
 

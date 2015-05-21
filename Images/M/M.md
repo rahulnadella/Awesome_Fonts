@@ -76,18 +76,6 @@
 
 <img src="Matiz.png" width="710" height="100" />
 
-###maven-pro
-
-[maven-pro](../../Fonts/M/maven-pro)
-
-<img src="maven-pro.png" width="710" height="100" />
-
-###Maximum-Line-Speeder
-
-[Maximum-Line-Speeder](../../Fonts/M/Maximum-Line-Speeder)
-
-<img src="Maximum-Line-Speeder.png" width="710" height="100" />
-
 ###Maximum-Security
 
 [Maximum-Security](../../Fonts/M/Maximum-Security)
@@ -99,24 +87,6 @@
 [Medio](../../Fonts/M/Medio)
 
 <img src="Medio.png" width="710" height="100" />
-
-###MEgalopolis-Extra
-
-[MEgalopolis-Extra](../../Fonts/M/MEgalopolis-Extra)
-
-<img src="MEgalopolis-Extra.png" width="710" height="100" />
-
-###Mentone
-
-[Mentone](../../Fonts/M/Mentone)
-
-<img src="Mentone.png" width="710" height="100" />
-
-###Merge
-
-[Merge](../../Fonts/M/Merge)
-
-<img src="Merge.png" width="710" height="100" />
 
 ###merriweather-sans
 
@@ -160,18 +130,6 @@
 
 <img src="michroma.png" width="710" height="100" />
 
-###midiet-1
-
-[midiet-1](../../Fonts/M/midiet-1)
-
-<img src="midiet-1.png" width="710" height="100" />
-
-###midiet
-
-[midiet](../../Fonts/M/midiet)
-
-<img src="midiet.png" width="710" height="100" />
-
 ###mikodacs
 
 [mikodacs](../../Fonts/M/mikodacs)
@@ -201,18 +159,6 @@
 [MinstrelPosterWHG](../../Fonts/M/MinstrelPosterWHG)
 
 <img src="MinstrelPosterWHG.png" width="710" height="100" />
-
-###Miso
-
-[Miso](../../Fonts/M/Miso)
-
-<img src="Miso.png" width="710" height="100" />
-
-###misproject
-
-[misproject](../../Fonts/M/misproject)
-
-<img src="misproject.png" width="710" height="100" />
 
 ###modern-antiqua
 
@@ -256,12 +202,6 @@
 
 <img src="monoton.png" width="710" height="100" />
 
-###Monoxil
-
-[Monoxil](../../Fonts/M/Monoxil)
-
-<img src="Monoxil.png" width="710" height="100" />
-
 ###montez
 
 [montez](../../Fonts/M/montez)
@@ -286,47 +226,11 @@
 
 <img src="mountains-of-christmas.png" width="710" height="100" />
 
-###Mr-Jones
-
-[Mr-Jones](../../Fonts/M/Mr-Jones)
-
-<img src="Mr-Jones.png" width="710" height="100" />
-
 ###muli
 
 [muli](../../Fonts/M/muli)
 
 <img src="muli.png" width="710" height="100" />
-
-###Munro
-
-[Munro](../../Fonts/M/Munro)
-
-<img src="Munro.png" width="710" height="100" />
-
-###murena
-
-[murena](../../Fonts/M/murena)
-
-<img src="murena.png" width="710" height="100" />
-
-###Museo-Sans
-
-[Museo-Sans](../../Fonts/M/Museo-Sans)
-
-<img src="Museo-Sans.png" width="710" height="100" />
-
-###Museo-Slab
-
-[Museo-Slab](../../Fonts/M/Museo-Slab)
-
-<img src="Museo-Slab.png" width="710" height="100" />
-
-###Museo
-
-[Museo](../../Fonts/M/Museo)
-
-<img src="Museo.png" width="710" height="100" />
 
 ###Mutlu
 
@@ -345,9 +249,3 @@
 [Myndraine](../../Fonts/M/Myndraine)
 
 <img src="Myndraine.png" width="710" height="100" />
-
-###myra-4f-caps
-
-[myra-4f-caps](../../Fonts/M/myra-4f-caps)
-
-<img src="myra-4f-caps.png" width="710" height="100" />

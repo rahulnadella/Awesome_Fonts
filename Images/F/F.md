@@ -46,29 +46,11 @@
 
 <img src="fengardo-neue.png" width="710" height="100" />
 
-###fenwick
-
-[fenwick](../../Fonts/F/fenwick)
-
-<img src="fenwick.png" width="710" height="100" />
-
-###Fertigo-Pro
-
-[Fertigo-Pro](../../Fonts/F/Fertigo-Pro)
-
-<img src="Fertigo-Pro.png" width="710" height="100" />
-
 ###FFF-Tusj
 
 [FFF-Tusj](../../Fonts/F/FFF-Tusj)
 
 <img src="FFF-Tusj.png" width="710" height="100" />
-
-###File
-
-[File](../../Fonts/F/File)
-
-<img src="File.png" width="710" height="100" />
 
 ###finger-paint
 
@@ -154,29 +136,11 @@
 
 <img src="Folks-Light.png" width="710" height="100" />
 
-###Fontin-Sans
-
-[Fontin-Sans](../../Fonts/F/Fontin-Sans)
-
-<img src="Fontin-Sans.png" width="710" height="100" />
-
-###Fontin
-
-[Fontin](../../Fonts/F/Fontin)
-
-<img src="Fontin.png" width="710" height="100" />
-
 ###FontleroyBrown
 
 [FontleroyBrown](../../Fonts/F/FontleroyBrown)
 
 <img src="FontleroyBrown.png" width="710" height="100" />
-
-###foro
-
-[foro](../../Fonts/F/foro)
-
-<img src="foro.png" width="710" height="100" />
 
 ###FortySecondStreetHB
 
@@ -190,23 +154,11 @@
 
 <img src="forum.png" width="710" height="100" />
 
-###fr-hopper
-
-[fr-hopper](../../Fonts/F/fr-hopper)
-
-<img src="fr-hopper.png" width="710" height="100" />
-
 ###francois-one
 
 [francois-one](../../Fonts/F/francois-one)
 
 <img src="francois-one.png" width="710" height="100" />
-
-###franklin-gothic-fs
-
-[franklin-gothic-fs](../../Fonts/F/franklin-gothic-fs)
-
-<img src="franklin-gothic-fs.png" width="710" height="100" />
 
 ###Freebooter-Script
 
@@ -225,9 +177,3 @@
 [Furore](../../Fonts/F/Furore)
 
 <img src="Furore.png" width="710" height="100" />
-
-###Fyra
-
-[Fyra](../../Fonts/F/Fyra)
-
-<img src="Fyra.png" width="710" height="100" />

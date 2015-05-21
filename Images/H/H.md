@@ -28,12 +28,6 @@
 
 <img src="hanalei.png" width="710" height="100" />
 
-###Happy-Day-Dingbats
-
-[Happy-Day-Dingbats](../../Fonts/H/Happy-Day-Dingbats)
-
-<img src="Happy-Day-Dingbats.png" width="710" height="100" />
-
 ###HarabaraHand
 
 [HarabaraHand](../../Fonts/H/HarabaraHand)
@@ -63,12 +57,6 @@
 [Heavy-Data](../../Fonts/H/Heavy-Data)
 
 <img src="Heavy-Data.png" width="710" height="100" />
-
-###Heavyweight
-
-[Heavyweight](../../Fonts/H/Heavyweight)
-
-<img src="Heavyweight.png" width="710" height="100" />
 
 ###helsinki
 

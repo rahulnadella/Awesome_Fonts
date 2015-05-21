@@ -4,48 +4,6 @@
 
 <img src="oblik-serif.png" width="710" height="100" />
 
-###oblik
-
-[oblik](../../Fonts/O/oblik)
-
-<img src="oblik.png" width="710" height="100" />
-
-###octin-college-free
-
-[octin-college-free](../../Fonts/O/octin-college-free)
-
-<img src="octin-college-free.png" width="710" height="100" />
-
-###octin-prison-free
-
-[octin-prison-free](../../Fonts/O/octin-prison-free)
-
-<img src="octin-prison-free.png" width="710" height="100" />
-
-###octin-sports-free
-
-[octin-sports-free](../../Fonts/O/octin-sports-free)
-
-<img src="octin-sports-free.png" width="710" height="100" />
-
-###octin-spraypaint-free
-
-[octin-spraypaint-free](../../Fonts/O/octin-spraypaint-free)
-
-<img src="octin-spraypaint-free.png" width="710" height="100" />
-
-###octin-stencil
-
-[octin-stencil](../../Fonts/O/octin-stencil)
-
-<img src="octin-stencil.png" width="710" height="100" />
-
-###octin-vintage
-
-[octin-vintage](../../Fonts/O/octin-vintage)
-
-<img src="octin-vintage.png" width="710" height="100" />
-
 ###odstemplik
 
 [odstemplik](../../Fonts/O/odstemplik)
@@ -69,12 +27,6 @@
 [Old-Standard-TT](../../Fonts/O/Old-Standard-TT)
 
 <img src="Old-Standard-TT.png" width="710" height="100" />
-
-###olney
-
-[olney](../../Fonts/O/olney)
-
-<img src="olney.png" width="710" height="100" />
 
 ###open-sans-condensed
 
@@ -153,12 +105,6 @@
 [otama-ep](../../Fonts/O/otama-ep)
 
 <img src="otama-ep.png" width="710" height="100" />
-
-###Otari
-
-[Otari](../../Fonts/O/Otari)
-
-<img src="Otari.png" width="710" height="100" />
 
 ###outgunned
 

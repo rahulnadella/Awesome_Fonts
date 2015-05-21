@@ -4,12 +4,6 @@
 
 <img src="bahiana.png" width="710" height="100" />
 
-###banda
-
-[banda](../../Fonts/B/banda)
-
-<img src="banda.png" width="710" height="100" />
-
 ###Banksia
 
 [Banksia](../../Fonts/B/Banksia)
@@ -27,12 +21,6 @@
 [Bearpaw](../../Fonts/B/Bearpaw)
 
 <img src="Bearpaw.png" width="710" height="100" />
-
-###bebas neue
-
-[bebas neue](../../Fonts/B/bebas-neue)
-
-<img src="bebas-neue.png" width="710" height="100" />
 
 ###Bebas
 
@@ -57,12 +45,6 @@
 [benchnine](../../Fonts/B/benchnine)
 
 <img src="benchnine.png" width="710" height="100" />
-
-###Bender
-
-[Bender](../../Fonts/B/Bender)
-
-<img src="Bender.png" width="710" height="100" />
 
 ###Bentham
 
@@ -93,18 +75,6 @@
 [bilbo](../../Fonts/B/bilbo)
 
 <img src="bilbo.png" width="710" height="100" />
-
-###Birra
-
-[Birra](../../Fonts/B/Birra)
-
-<img src="Birra.png" width="710" height="100" />
-
-###bispo
-
-[bispo](../../Fonts/B/bispo)
-
-<img src="bispo.png" width="710" height="100" />
 
 ###Bitstream Vera Sans Mono
 
@@ -196,12 +166,6 @@
 
 <img src="boogaloo.png" width="710" height="100" />
 
-###borgia-pro
-
-[borgia-pro](../../Fonts/B/borgia-pro)
-
-<img src="borgia-pro.png" width="710" height="100" />
-
 ###Boston-Traffic
 
 [Boston-Traffic](../../Fonts/B/Boston-Traffic)
@@ -273,12 +237,6 @@
 [bree-serif](../../Fonts/B/bree-serif)
 
 <img src="bree-serif.png" width="710" height="100" />
-
-###broken-15
-
-[broken-15](../../Fonts/B/broken-15)
-
-<img src="broken-15.png" width="710" height="100" />
 
 ###Brushstroke-Plain
 

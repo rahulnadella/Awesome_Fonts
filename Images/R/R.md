@@ -76,12 +76,6 @@
 
 <img src="redressed.png" width="710" height="100" />
 
-###reklame-script
-
-[reklame-script](../../Fonts/R/reklame-script)
-
-<img src="reklame-script.png" width="710" height="100" />
-
 ###resagnicto
 
 [resagnicto](../../Fonts/R/resagnicto)
@@ -100,18 +94,6 @@
 
 <img src="reswysokr.png" width="710" height="100" />
 
-###rex
-
-[rex](../../Fonts/R/rex)
-
-<img src="rex.png" width="710" height="100" />
-
-###Rhomus-Omnilots
-
-[Rhomus-Omnilots](../../Fonts/R/Rhomus-Omnilots)
-
-<img src="Rhomus-Omnilots.png" width="710" height="100" />
-
 ###Riesling
 
 [Riesling](../../Fonts/R/Riesling)
@@ -123,18 +105,6 @@
 [risque](../../Fonts/R/risque)
 
 <img src="risque.png" width="710" height="100" />
-
-###ristretto-pro
-
-[ristretto-pro](../../Fonts/R/ristretto-pro)
-
-<img src="ristretto-pro.png" width="710" height="100" />
-
-###ristretto-slab-pro
-
-[ristretto-slab-pro](../../Fonts/R/ristretto-slab-pro)
-
-<img src="ristretto-slab-pro.png" width="710" height="100" />
 
 ###roboto-2014
 
@@ -177,18 +147,6 @@
 [Roman-Caps](../../Fonts/R/Roman-Caps)
 
 <img src="Roman-Caps.png" width="710" height="100" />
-
-###ropa-sans-pro
-
-[ropa-sans-pro](../../Fonts/R/ropa-sans-pro)
-
-<img src="ropa-sans-pro.png" width="710" height="100" />
-
-###ropa-soft-pro
-
-[ropa-soft-pro](../../Fonts/R/ropa-soft-pro)
-
-<img src="ropa-soft-pro.png" width="710" height="100" />
 
 ###rosario
 

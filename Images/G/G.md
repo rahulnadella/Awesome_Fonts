@@ -40,12 +40,6 @@
 
 <img src="GEIST-RND.png" width="710" height="100" />
 
-###genius
-
-[genius](../../Fonts/G/genius)
-
-<img src="genius.png" width="710" height="100" />
-
 ###Gentium-Basic
 
 [Gentium-Basic](../../Fonts/G/Gentium-Basic)
@@ -64,29 +58,11 @@
 
 <img src="Geo.png" width="710" height="100" />
 
-###geometria
-
-[geometria](../../Fonts/G/geometria)
-
-<img src="geometria.png" width="710" height="100" />
-
 ###geometry-soft-pro
 
 [geometry-soft-pro](../../Fonts/G/geometry-soft-pro)
 
 <img src="geometry-soft-pro.png" width="710" height="100" />
-
-###geotica-2012
-
-[geotica-2012](../../Fonts/G/geotica-2012)
-
-<img src="geotica-2012.png" width="710" height="100" />
-
-###geotica-three
-
-[geotica-three](../../Fonts/G/geotica-three)
-
-<img src="geotica-three.png" width="710" height="100" />
 
 ###Gesso
 
@@ -111,24 +87,6 @@
 [Gladifilthefte](../../Fonts/G/Gladifilthefte)
 
 <img src="Gladifilthefte.png" width="710" height="100" />
-
-###global
-
-[global](../../Fonts/G/global)
-
-<img src="global.png" width="710" height="100" />
-
-###glober
-
-[glober](../../Fonts/G/glober)
-
-<img src="glober.png" width="710" height="100" />
-
-###gnuolane
-
-[gnuolane](../../Fonts/G/gnuolane)
-
-<img src="gnuolane.png" width="710" height="100" />
 
 ###goblin
 
@@ -190,12 +148,6 @@
 
 <img src="grand-hotel.png" width="710" height="100" />
 
-###graviola
-
-[graviola](../../Fonts/G/graviola)
-
-<img src="graviola.png" width="710" height="100" />
-
 ###gravitas-one
 
 [gravitas-one](../../Fonts/G/gravitas-one)
@@ -238,20 +190,14 @@
 
 <img src="GriffosFont.png" width="710" height="100" />
 
-###Grov-AB
-
-[Grov-AB](../../Fonts/G/Grov-AB)
-
-<img src="Grov-AB.png" width="710" height="100" />
-
-###Grov-Condensed-AB
-
-[Grov-Condensed-AB](../../Fonts/G/Grov-Condensed-AB)
-
-<img src="Grov-Condensed-AB.png" width="710" height="100" />
-
 ###GrutchShaded
 
 [GrutchShaded](../../Fonts/G/GrutchShaded)
 
 <img src="GrutchShaded.png" width="710" height="100" />
+
+###Gudea
+
+[Gudea](../../Fonts/G/Gudea)
+
+<img src="Gudea.png" width="710" height="100" />

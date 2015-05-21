@@ -1,15 +1,3 @@
-###Zag-Regular
-
-[Zag-Regular](../../Fonts/Z/Zag-Regular)
-
-<img src="Zag-Regular.png" width="710" height="100" />
-
-###ZalamanderCaps
-
-[ZalamanderCaps](../../Fonts/Z/ZalamanderCaps)
-
-<img src="ZalamanderCaps.png" width="710" height="100" />
-
 ###zambajoun
 
 [zambajoun](../../Fonts/Z/zambajoun)
@@ -33,12 +21,6 @@
 [Zero-Zero-Is](../../Fonts/Z/Zero-Zero-Is)
 
 <img src="Zero-Zero-Is.png" width="710" height="100" />
-
-###ZITZ
-
-[ZITZ](../../Fonts/Z/ZITZ)
-
-<img src="ZITZ.png" width="710" height="100" />
 
 ###znikomit
 

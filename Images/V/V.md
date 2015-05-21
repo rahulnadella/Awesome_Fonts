@@ -4,12 +4,6 @@
 
 <img src="VAG-HandWritten.png" width="710" height="100" />
 
-###VAL
-
-[VAL](../../Fonts/V/VAL)
-
-<img src="VAL.png" width="710" height="100" />
-
 ###VanBerger
 
 [VanBerger](../../Fonts/V/VanBerger)
@@ -46,35 +40,11 @@
 
 <img src="Veggieburger.png" width="710" height="100" />
 
-###veneer-extras
-
-[veneer-extras](../../Fonts/V/veneer-extras)
-
-<img src="veneer-extras.png" width="710" height="100" />
-
-###verb-condensed
-
-[verb-condensed](../../Fonts/V/verb-condensed)
-
-<img src="verb-condensed.png" width="710" height="100" />
-
-###verb
-
-[verb](../../Fonts/V/verb)
-
-<img src="verb.png" width="710" height="100" />
-
 ###Verily-Serif-Mono
 
 [Verily-Serif-Mono](../../Fonts/V/Verily-Serif-Mono)
 
 <img src="Verily-Serif-Mono.png" width="710" height="100" />
-
-###vezus
-
-[vezus](../../Fonts/V/vezus)
-
-<img src="vezus.png" width="710" height="100" />
 
 ###vidaloka
 
@@ -87,12 +57,6 @@
 [viga](../../Fonts/V/viga)
 
 <img src="viga.png" width="710" height="100" />
-
-###vincHand
-
-[vincHand](../../Fonts/V/vincHand)
-
-<img src="vincHand.png" width="710" height="100" />
 
 ###Virgo-01
 

@@ -16,12 +16,6 @@
 
 <img src="palo-alto.png" width="710" height="100" />
 
-###pancetta-pro
-
-[pancetta-pro](../../Fonts/P/pancetta-pro)
-
-<img src="pancetta-pro.png" width="710" height="100" />
-
 ###panefresco
 
 [panefresco](../../Fonts/P/panefresco)
@@ -33,12 +27,6 @@
 [passion-one](../../Fonts/P/passion-one)
 
 <img src="passion-one.png" width="710" height="100" />
-
-###Patagonia
-
-[Patagonia](../../Fonts/P/Patagonia)
-
-<img src="Patagonia.png" width="710" height="100" />
 
 ###patua-one
 
@@ -88,35 +76,17 @@
 
 <img src="Perspective-Sans.png" width="710" height="100" />
 
-###picadilly-bold
-
-[picadilly-bold](../../Fonts/P/picadilly-bold)
-
-<img src="picadilly-bold.png" width="710" height="100" />
-
 ###piedra
 
 [piedra](../../Fonts/P/piedra)
 
 <img src="piedra.png" width="710" height="100" />
 
-###Pigiarniq
-
-[Pigiarniq](../../Fonts/P/Pigiarniq)
-
-<img src="Pigiarniq.png" width="710" height="100" />
-
 ###Pincoyablack
 
 [Pincoyablack](../../Fonts/P/Pincoyablack)
 
 <img src="Pincoyablack.png" width="710" height="100" />
-
-###Pirulen
-
-[Pirulen](../../Fonts/P/Pirulen)
-
-<img src="Pirulen.png" width="710" height="100" />
 
 ###PixieFont
 
@@ -130,13 +100,7 @@
 
 <img src="PlainBlack.png" width="710" height="100" />
 
-###planer
-
-[planer](../../Fonts/P/planer)
-
-<img src="planer.png" width="710" height="100" />
-
-###Plasma-Drip-BRK
+#Plasma-Drip-BRK
 
 [Plasma-Drip-BRK](../../Fonts/P/Plasma-Drip-BRK)
 
@@ -196,12 +160,6 @@
 
 <img src="Poilet-Taper.png" width="710" height="100" />
 
-###polaris
-
-[polaris](../../Fonts/P/polaris)
-
-<img src="polaris.png" width="710" height="100" />
-
 ###polsku
 
 [polsku](../../Fonts/P/polsku)
@@ -220,18 +178,6 @@
 
 <img src="pompiere.png" width="710" height="100" />
 
-###ponsi-rounded-slab
-
-[ponsi-rounded-slab](../../Fonts/P/ponsi-rounded-slab)
-
-<img src="ponsi-rounded-slab.png" width="710" height="100" />
-
-###porcelain
-
-[porcelain](../../Fonts/P/porcelain)
-
-<img src="porcelain.png" width="710" height="100" />
-
 ###Portcullion
 
 [Portcullion](../../Fonts/P/Portcullion)
@@ -243,18 +189,6 @@
 [porter-sans](../../Fonts/P/porter-sans)
 
 <img src="porter-sans.png" width="710" height="100" />
-
-###Pricedown
-
-[Pricedown](../../Fonts/P/Pricedown)
-
-<img src="Pricedown.png" width="710" height="100" />
-
-###primus
-
-[primus](../../Fonts/P/primus)
-
-<img src="primus.png" width="710" height="100" />
 
 ###Print-Clearly
 
@@ -292,12 +226,6 @@
 
 <img src="Promocyja.png" width="710" height="100" />
 
-###proza
-
-[proza](../../Fonts/P/proza)
-
-<img src="proza.png" width="710" height="100" />
-
 ###pt-mono
 
 [pt-mono](../../Fonts/P/pt-mono)
@@ -315,12 +243,6 @@
 [pt-serif](../../Fonts/P/pt-serif)
 
 <img src="pt-serif.png" width="710" height="100" />
-
-###Pupcat
-
-[Pupcat](../../Fonts/P/Pupcat)
-
-<img src="Pupcat.png" width="710" height="100" />
 
 ###puritan-2.0
 

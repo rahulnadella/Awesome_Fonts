@@ -58,29 +58,11 @@
 
 <img src="dejavu-sans.png" width="710" height="100" />
 
-###dekar
-
-[dekar](../../Fonts/D/dekar)
-
-<img src="dekar.png" width="710" height="100" />
-
-###Delicious
-
-[Delicious](../../Fonts/D/Delicious)
-
-<img src="Delicious.png" width="710" height="100" />
-
 ###densia-sans
 
 [densia-sans](../../Fonts/D/densia-sans)
 
 <img src="densia-sans.png" width="710" height="100" />
-
-###depot-trapharet-2d
-
-[depot-trapharet-2d](../../Fonts/D/depot-trapharet-2d)
-
-<img src="depot-trapharet-2d.png" width="710" height="100" />
 
 ###DeStencilNF
 
@@ -112,18 +94,6 @@
 
 <img src="Devroye.png" width="710" height="100" />
 
-###dezen-pro
-
-[dezen-pro](../../Fonts/D/dezen-pro)
-
-<img src="dezen-pro.png" width="710" height="100" />
-
-###Diavlo
-
-[Diavlo](../../Fonts/D/Diavlo)
-
-<img src="Diavlo.png" width="710" height="100" />
-
 ###Digital-dream
 
 [Digital-dream](../../Fonts/D/Digital-dream)
@@ -136,12 +106,6 @@
 
 <img src="Diner-Skinny.png" width="710" height="100" />
 
-###dirty-ego
-
-[dirty-ego](../../Fonts/D/dirty-ego)
-
-<img src="dirty-ego.png" width="710" height="100" />
-
 ###DISCO
 
 [DISCO](../../Fonts/D/DISCO)
@@ -153,12 +117,6 @@
 [Distant-Galaxy](../../Fonts/D/Distant-Galaxy)
 
 <img src="Distant-Galaxy.png" width="710" height="100" />
-
-###District-Thin
-
-[District-Thin](../../Fonts/D/District-Thin)
-
-<img src="District-Thin.png" width="710" height="100" />
 
 ###District
 
@@ -189,12 +147,6 @@
 [dosis](../../Fonts/D/dosis)
 
 <img src="dosis.png" width="710" height="100" />
-
-###downcome
-
-[downcome](../../Fonts/D/downcome)
-
-<img src="downcome.png" width="710" height="100" />
 
 ###dpsdbeyond
 

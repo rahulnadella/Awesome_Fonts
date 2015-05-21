@@ -10,12 +10,6 @@
 
 <img src="Tagapagsalaysay-Caps-Narrator.png" width="710" height="100" />
 
-###Tallys
-
-[Tallys](../../Fonts/T/Tallys)
-
-<img src="Tallys.png" width="710" height="100" />
-
 ###Tangerine
 
 [Tangerine](../../Fonts/T/Tangerine)
@@ -34,29 +28,11 @@
 
 <img src="Teen.png" width="710" height="100" />
 
-###Telegrama
-
-[Telegrama](../../Fonts/T/Telegrama)
-
-<img src="Telegrama.png" width="710" height="100" />
-
-###Tenby-Five
-
-[Tenby-Five](../../Fonts/T/Tenby-Five)
-
-<img src="Tenby-Five.png" width="710" height="100" />
-
 ###Tenderness
 
 [Tenderness](../../Fonts/T/Tenderness)
 
 <img src="Tenderness.png" width="710" height="100" />
-
-###Tertre
-
-[Tertre](../../Fonts/T/Tertre)
-
-<img src="Tertre.png" width="710" height="100" />
 
 ###Teutonic-No1
 
@@ -130,12 +106,6 @@
 
 <img src="tienne.png" width="710" height="100" />
 
-###tikal-sans
-
-[tikal-sans](../../Fonts/T/tikal-sans)
-
-<img src="tikal-sans.png" width="710" height="100" />
-
 ###Tinet
 
 [Tinet](../../Fonts/T/Tinet)
@@ -171,18 +141,6 @@
 [Tiza](../../Fonts/T/Tiza)
 
 <img src="Tiza.png" width="710" height="100" />
-
-###Tkachenko-Sketch-4F
-
-[Tkachenko-Sketch-4F](../../Fonts/T/Tkachenko-Sketch-4F)
-
-<img src="Tkachenko-Sketch-4F.png" width="710" height="100" />
-
-###tondu
-
-[tondu](../../Fonts/T/tondu)
-
-<img src="tondu.png" width="710" height="100" />
 
 ###Top-Secret
 

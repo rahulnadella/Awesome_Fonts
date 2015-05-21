@@ -4,12 +4,6 @@
 
 <img src="yanone-kaffeesatz.png" width="710" height="100" />
 
-###Yard-Sale
-
-[Yard-Sale](../../Fonts/Y/Yard-Sale)
-
-<img src="Yard-Sale.png" width="710" height="100" />
-
 ###Yataghan
 
 [Yataghan](../../Fonts/Y/Yataghan)

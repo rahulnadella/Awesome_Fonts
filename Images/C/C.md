@@ -22,18 +22,6 @@
 
 <img src="calligraffiti.png" width="710" height="100" />
 
-###calluna-sans
-
-[calluna-sans](../../Fonts/C/calluna-sans)
-
-<img src="calluna-sans.png" width="710" height="100" />
-
-###Calluna
-
-[Calluna](../../Fonts/C/Calluna)
-
-<img src="Calluna.png" width="710" height="100" />
-
 ###cambo
 
 [cambo](../../Fonts/C/cambo)
@@ -100,12 +88,6 @@
 
 <img src="carrois-gothic.png" width="710" height="100" />
 
-###Cartwheel
-
-[Cartwheel](../../Fonts/C/Cartwheel)
-
-<img src="Cartwheel.png" width="710" height="100" />
-
 ###Caslon-Initials
 
 [Caslon-Initials](../../Fonts/C/Caslon-Initials)
@@ -154,12 +136,6 @@
 
 <img src="cherry-swash.png" width="710" height="100" />
 
-###chinese-rocks
-
-[chinese-rocks](../../Fonts/C/chinese-rocks)
-
-<img src="chinese-rocks.png" width="710" height="100" />
-
 ###chivo
 
 [chivo](../../Fonts/C/chivo)
@@ -190,12 +166,6 @@
 
 <img src="clear-sans.png" width="710" height="100" />
 
-###clinica-pro
-
-[clinica-pro](../../Fonts/C/clinica-pro)
-
-<img src="clinica-pro.png" width="710" height="100" />
-
 ###Clutchee
 
 [Clutchee](../../Fonts/C/Clutchee)
@@ -214,12 +184,6 @@
 
 <img src="code.png" width="710" height="100" />
 
-###Codename-Coder-Free-4F
-
-[Codename-Coder-Free-4F](../../Fonts/C/Codename-Coder-Free-4F)
-
-<img src="Codename-Coder-Free-4F.png" width="710" height="100" />
-
 ###Colaborate
 
 [Colaborate](../../Fonts/C/Colaborate)
@@ -231,18 +195,6 @@
 [College](../../Fonts/C/College)
 
 <img src="College.png" width="710" height="100" />
-
-###COM4t-Fine-Regular
-
-[COM4t-Fine-Regular](../../Fonts/C/COM4t-Fine-Regular)
-
-<img src="COM4t-Fine-Regular.png" width="710" height="100" />
-
-###COM4t-Sans-Medium
-
-[COM4t-Sans-Medium](../../Fonts/C/COM4t-Sans-Medium)
-
-<img src="COM4t-Sans-Medium.png" width="710" height="100" />
 
 ###CombiNumerals-Ltd
 
@@ -286,18 +238,6 @@
 
 <img src="condiment.png" width="710" height="100" />
 
-###Conspiracy
-
-[Conspiracy](../../Fonts/C/Conspiracy)
-
-<img src="Conspiracy.png" width="710" height="100" />
-
-###contax-sans
-
-[contax-sans](../../Fonts/C/contax-sans)
-
-<img src="contax-sans.png" width="710" height="100" />
-
 ###Contra
 
 [Contra](../../Fonts/C/Contra)
@@ -321,30 +261,6 @@
 [Copystruct](../../Fonts/C/Copystruct)
 
 <img src="Copystruct.png" width="710" height="100" />
-
-###corbert-condensed
-
-[corbert-condensed](../../Fonts/C/corbert-condensed)
-
-<img src="corbert-condensed.png" width="710" height="100" />
-
-###corbert
-
-[corbert](../../Fonts/C/corbert)
-
-<img src="corbert.png" width="710" height="100" />
-
-###corda
-
-[corda](../../Fonts/C/corda)
-
-<img src="corda.png" width="710" height="100" />
-
-###corehumanistsans
-
-[corehumanistsans](../../Fonts/C/corehumanistsans)
-
-<img src="corehumanistsans.png" width="710" height="100" />
 
 ###Costura
 
@@ -393,18 +309,6 @@
 [cuprum](../../Fonts/C/cuprum)
 
 <img src="cuprum.png" width="710" height="100" />
-
-###cyntho-pro
-
-[cyntho-pro](../../Fonts/C/cyntho-pro)
-
-<img src="cyntho-pro.png" width="710" height="100" />
-
-###cyntho-slab-pro
-
-[cyntho-slab-pro](../../Fonts/C/cyntho-slab-pro)
-
-<img src="cyntho-slab-pro.png" width="710" height="100" />
 
 ###SF-Cartoonist-Hand
 
