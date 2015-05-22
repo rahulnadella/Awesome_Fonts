@@ -24,6 +24,12 @@
 
 <img src="railway.png" width="710" height="100" />
 
+###Rakoon
+
+[Rakoon](../../Fonts/R/rakoon)
+
+<img src="Rakoon.png" width="710" height="100" />
+
 ###raleway-dots
 
 [raleway-dots](../../Fonts/R/raleway-dots)
@@ -78,6 +84,18 @@
 
 <img src="redressed.png" width="710" height="100" />
 
+###Remachine_Script
+
+[Remachine_Script](../../Fonts/R/remachine_script)
+
+<img src="Remachine_Script.png" width="710" height="100" />
+
+###Republica_Minor
+
+[Republica_Minor](../../Fonts/R/republica_minor)
+
+<img src="Republica_Minor.png" width="710" height="100" />
+
 ###resagnicto
 
 [resagnicto](../../Fonts/R/resagnicto)
@@ -90,17 +108,35 @@
 
 <img src="resagokr.png" width="710" height="100" />
 
+###Respective
+
+[Respective](../../Fonts/R/respective)
+
+<img src="Respective.png" width="710" height="100" />
+
 ###reswysokr
 
 [reswysokr](../../Fonts/R/reswysokr)
 
 <img src="reswysokr.png" width="710" height="100" />
 
+###Return_To_Sender
+
+[Return_To_Sender](../../Fonts/R/return_to_sender)
+
+<img src="Return_To_Sender.png" width="710" height="100" />
+
 ###Riesling
 
 [Riesling](../../Fonts/R/Riesling)
 
 <img src="Riesling.png" width="710" height="100" />
+
+###Rio_Grande
+
+[Rio_Grande](../../Fonts/R/rio_grande)
+
+<img src="Rio_Grande.png" width="710" height="100" />
 
 ###risque
 
@@ -173,6 +209,12 @@
 [Rothman](../../Fonts/R/Rothman)
 
 <img src="Rothman.png" width="710" height="100" />
+
+###Rounded_Elegance
+
+[Rounded_Elegance](../../Fonts/R/rounded_elegance)
+
+<img src="Rounded_Elegance.png" width="710" height="100" />
 
 ###ruthie
 
