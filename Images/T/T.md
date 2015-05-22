@@ -84,6 +84,18 @@
 
 <img src="TeX-Gyre-Termes.png" width="710" height="100" />
 
+###Thank_you_Drf
+
+[Thank_you_Drf](../../Fonts/T/thank_you_drf)
+
+<img src="Thank_you_Drf.png" width="710" height="100" />
+
+###The_Bold_Font
+
+[The_Bold_Font](../../Fonts/T/the_bold_font)
+
+<img src="The_Bold_Font.png" width="710" height="100" />
+
 ###Theano-Didot
 
 [Theano-Didot](../../Fonts/T/Theano-Didot)
@@ -101,6 +113,18 @@
 [Theano-Old-Style](../../Fonts/T/Theano-Old-Style)
 
 <img src="Theano-Old-Style.png" width="710" height="100" />
+
+###Thirsty_Script
+
+[Thirsty_Script](../../Fonts/T/thirsty_script)
+
+<img src="Thirsty_Script.png" width="710" height="100" />
+
+###Throw_My_Hands_Up_In_the_Air
+
+[Throw_My_Hands_Up_In_the_Air](../../Fonts/T/throw_my_hands_up_in_the_air)
+
+<img src="Throw_My_Hands_Up_In_the_Air.png" width="710" height="100" />
 
 ###tienne
 
@@ -156,11 +180,29 @@
 
 <img src="trade-winds.png" width="710" height="100" />
 
+###Transformers_Movie
+
+[Transformers_Movie](../../Fonts/T/transformers_movie)
+
+<img src="Transformers_Movie.png" width="710" height="100" />
+
+###Trap_House
+
+[Trap_House](../../Fonts/T/traphouse)
+
+<img src="Trap_House.png" width="710" height="100" />
+
 ###TrashHand
 
 [TrashHand](../../Fonts/T/TrashHand)
 
 <img src="TrashHand.png" width="710" height="100" />
+
+###Traveling_Typewriter
+
+[Traveling_Typewriter](../../Fonts/T/traveling_typewriter)
+
+<img src="Traveling_Typewriter.png" width="710" height="100" />
 
 ###Trendy-University
 
@@ -185,6 +227,12 @@
 [troika](../../Fonts/T/troika)
 
 <img src="troika.png" width="710" height="100" />
+
+###True_Lies
+
+[True_Lies](../../Fonts/T/true_lies)
+
+<img src="True_Lies.png" width="710" height="100" />
 
 ###True-Crimes
 
@@ -221,6 +269,12 @@
 [tulpen-one](../../Fonts/T/tulpen-one)
 
 <img src="tulpen-one.png" width="710" height="100" />
+
+###Typo_Grotesk_Rounded
+
+[Typo_Grotesk_Rounded](../../Fonts/T/typo_grotesk_rounded)
+
+<img src="Typo_Grotesk_Rounded.png" width="710" height="100" />
 
 ###TypoSlabserif-Light
 
