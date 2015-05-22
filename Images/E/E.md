@@ -12,6 +12,12 @@
 
 <img src="eb-garamond.png" width="710" height="100" />
 
+###Echinos_Park_Script
+
+[Echinos_Park_Script](../../Fonts/E/echinos_park_script)
+
+<img src="Echinos_Park_Script.png" width="710" height="100" />
+
 ###economica
 
 [economicat](../../Fonts/E/economicat)
@@ -90,6 +96,12 @@
 
 <img src="Existence-Light.png" width="710" height="100" />
 
+###Exmouth
+
+[Exmouth](../../Fonts/E/exmouth)
+
+<img src="Exmouth.png" width="710" height="100" />
+
 ###exo
 
 [exo](../../Fonts/E/exo)
@@ -101,3 +113,9 @@
 [exotica](../../Fonts/E/exotica)
 
 <img src="exotica.png" width="710" height="100" />
+
+###Eyes_Wide_Open
+
+[Eyes_Wide_Open](../../Fonts/E/eyes_wide_open)
+
+<img src="Eyes_Wide_Open.png" width="710" height="100" />
