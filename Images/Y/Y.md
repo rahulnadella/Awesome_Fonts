@@ -6,6 +6,12 @@
 
 <img src="yanone-kaffeesatz.png" width="710" height="100" />
 
+###Yaquote_Script
+
+[Yaquote_Script](../../Fonts/Y/yaquote_script)
+
+<img src="Yaquote_Script.png" width="710" height="100" />
+
 ###Yataghan
 
 [Yataghan](../../Fonts/Y/Yataghan)
@@ -17,6 +23,12 @@
 [Year-supply-of-fairy-cakes](../../Fonts/Y/Year-supply-of-fairy-cakes)
 
 <img src="Year-supply-of-fairy-cakes.png" width="710" height="100" />
+
+###Yellow_Butterflies
+
+[Yellow_Butterflies](../../Fonts/Y/yellow_butterflies)
+
+<img src="Yellow_Butterflies.png" width="710" height="100" />
 
 ###Yellow-Magician
 
@@ -53,6 +65,12 @@
 [yokawerad](../../Fonts/Y/yokawerad)
 
 <img src="yokawerad.png" width="710" height="100" />
+
+###Young_Beautiful
+
+[Young_Beautiful](../../Fonts/Y/young_beautiful)
+
+<img src="Young_Beautiful.png" width="710" height="100" />
 
 ###Yukarimobile
 
