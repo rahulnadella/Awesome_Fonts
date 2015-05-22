@@ -60,6 +60,12 @@
 
 <img src="Impact-Label.png" width="710" height="100" />
 
+###Impregnable
+
+[Impregnable](../../Fonts/I/impregnable)
+
+<img src="Impregnable.png" width="710" height="100" />
+
 ###Inconsolata
 
 [Inconsolata](../../Fonts/I/Inconsolata)
@@ -78,11 +84,29 @@
 
 <img src="Indubitably.png" width="710" height="100" />
 
+###Ink_In_The_Meat
+
+[Ink_In_The_Meat](../../Fonts/I/ink_in_the_meat)
+
+<img src="Ink_In_The_Meat.png" width="710" height="100" />
+
+###Intrique_Script
+
+[Intrique_Script](../../Fonts/I/intrique_script)
+
+<img src="Intrique_Script.png" width="710" height="100" />
+
 ###Intruder-Alert
 
 [Intruder-Alert](../../Fonts/I/Intruder-Alert)
 
 <img src="Intruder-Alert.png" width="710" height="100" />
+
+###Iron_Brine
+
+[Iron_Brine](../../Fonts/I/iron_brine)
+
+<img src="Iron_Brine.png" width="710" height="100" />
 
 ###istok
 

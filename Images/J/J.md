@@ -6,11 +6,35 @@
 
 <img src="jacques-francois.png" width="710" height="100" />
 
+###Janda_Stylish_Script
+
+[Janda_Stylish_Script](../../Fonts/J/janda_stylish_script)
+
+<img src="Janda_Stylish_Script.png" width="710" height="100" />
+
+###Jane_Austen
+
+[Jane_Austen](../../Fonts/J/jane_austen)
+
+<img src="Jane_Austen.png" width="710" height="100" />
+
+###Jellyka_Saint-Andrews_Queen
+
+[Jellyka_Saint-Andrews_Queen](../../Fonts/J/jellyka_saint-andrews_queen)
+
+<img src="Jellyka_Saint-Andrews_Queen.png" width="710" height="100" />
+
 ###jenna-sue
 
 [jenna-sue](../../Fonts/J/jenna-sue)
 
 <img src="jenna-sue.png" width="710" height="100" />
+
+###Jersey_M54
+
+[Jersey_M54](../../Fonts/J/jersey_m54)
+
+<img src="Jersey_M54.png" width="710" height="100" />
 
 ###Jinky
 
