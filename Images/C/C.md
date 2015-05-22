@@ -18,6 +18,12 @@
 
 <img src="CAC-Champagne.png" width="710" height="100" />
 
+###Cafe_Brewery
+
+[Cafe_Brewery](../../Fonts/C/cafe_brewery)
+
+<img src="Cafe_Brewery.png" width="710" height="100" />
+
 ###calligraffiti
 
 [calligraffiti](../../Fonts/C/calligraffiti)
@@ -42,6 +48,18 @@
 
 <img src="Candela.png" width="710" height="100" />
 
+###Candlescript
+
+[Candlescript](../../Fonts/C/candlescript)
+
+<img src="Candlescript.png" width="710" height="100" />
+
+###Canela_Bark
+
+[Canela_Bark](../../Fonts/C/canela_bark)
+
+<img src="Canela_Bark.png" width="710" height="100" />
+
 ###cantarell
 
 [cantarell](../../Fonts/C/cantarell)
@@ -53,6 +71,18 @@
 [capsuula](../../Fonts/C/capsuula)
 
 <img src="capsuula.png" width="710" height="100" />
+
+###Caricature
+
+[Caricature](../../Fonts/C/caricature)
+
+<img src="Caricature.png" width="710" height="100" />
+
+###Carnevalee_Freakshow
+
+[Carnevalee_Freakshow](../../Fonts/C/carnevalee_freakshow)
+
+<img src="Carnevalee_Freakshow.png" width="710" height="100" />
 
 ###Capture-it
 
@@ -90,6 +120,18 @@
 
 <img src="carrois-gothic.png" width="710" height="100" />
 
+###Cash_Currency
+
+[Cash_Currency](../../Fonts/C/cash_currency)
+
+<img src="Cash_Currency.png" width="710" height="100" />
+
+###Cashew_Apple_Ale
+
+[Cashew_Apple_Ale](../../Fonts/C/cashew_apple_ale)
+
+<img src="Cashew_Apple_Ale.png" width="710" height="100" />
+
 ###Caslon-Initials
 
 [Caslon-Initials](../../Fonts/C/Caslon-Initials)
@@ -114,6 +156,30 @@
 
 <img src="ceviche-one.png" width="710" height="100" />
 
+###Chalk_Hand_Lettering_Shaded
+
+[Chalk_Hand_Lettering_Shaded](../../Fonts/C/chalk_hand_lettering_shaded)
+
+<img src="Chalk_Hand_Lettering_Shaded.png" width="710" height="100" />
+
+###Champagne_Limousines
+
+[Champagne_Limousines](../../Fonts/C/champagne_limousines)
+
+<img src="Champagne_Limousines.png" width="710" height="100" />
+
+###Champignon
+
+[Champignon](../../Fonts/C/champignon)
+
+<img src="Champignon.png" width="710" height="100" />
+
+###Channel
+
+[Channel](../../Fonts/C/Channel)
+
+<img src="Channel.png" width="710" height="100" />
+
 ###Chantelli-Antiqua
 
 [Chantelli-Antiqua](../../Fonts/C/Chantelli-Antiqua)
@@ -132,11 +198,29 @@
 
 <img src="Charis-SIL.png" width="710" height="100" />
 
+###Cheddar_Jack
+
+[Cheddar_Jack](../../Fonts/C/cheddar_jack)
+
+<img src="Cheddar_Jack.png" width="710" height="100" />
+
+###cheri
+
+[cheri](../../Fonts/C/cheri)
+
+<img src="cheri.png" width="710" height="100" />
+
 ###cherry-swash
 
 [cherry-swash](../../Fonts/C/cherry-swash)
 
 <img src="cherry-swash.png" width="710" height="100" />
+
+###Chevalier_de_lorimier
+
+[Chevalier_de_lorimier](../../Fonts/C/cf_chevalier_de_lorimier)
+
+<img src="Chevalier_de_lorimier.png" width="710" height="100" />
 
 ###chivo
 
@@ -144,11 +228,29 @@
 
 <img src="chivo.png" width="710" height="100" />
 
+###Chocolate_Dealer
+
+[Chocolate_Dealer](../../Fonts/C/chocolate_dealer)
+
+<img src="Chocolate_Dealer.png" width="710" height="100" />
+
+###Chopin_Script
+
+[Chopin_Script](../../Fonts/C/chopin_script)
+
+<img src="Chopin_Script.png" width="710" height="100" />
+
 ###ChunkFive
 
 [ChunkFive](../../Fonts/C/ChunkFive)
 
 <img src="ChunkFive.png" width="710" height="100" />
+
+###Chunk_Five_Ex
+
+[Chunk_Five_Ex](../../Fonts/C/chunkfive_ex)
+
+<img src="Chunk_Five_Ex.png" width="710" height="100" />
 
 ###Cicle
 
@@ -162,17 +264,65 @@
 
 <img src="cinzel.png" width="710" height="100" />
 
+###Circus
+
+[Circus](../../Fonts/C/circus)
+
+<img src="Circus.png" width="710" height="100" />
+
+###Cityscape
+
+[Cityscape](../../Fonts/C/cityscape_font)
+
+<img src="Cityscape.png" width="710" height="100" />
+
 ###clear-sans
 
 [clear-sans](../../Fonts/C/clear-sans)
 
 <img src="clear-sans.png" width="710" height="100" />
 
+###Clemente
+
+[Clemente](../../Fonts/C/clemente_pd)
+
+<img src="Clemente.png" width="710" height="100" />
+
+###Cloister_Black
+
+[Cloister_Black](../../Fonts/C/cloister_black)
+
+<img src="Cloister_Black.png" width="710" height="100" />
+
 ###Clutchee
 
 [Clutchee](../../Fonts/C/Clutchee)
 
 <img src="Clutchee.png" width="710" height="100" />
+
+###Coalhand_Luke
+
+[Coalhand_Luke](../../Fonts/C/coalhandluke)
+
+<img src="Coalhand_Luke.png" width="710" height="100" />
+
+###Coalition
+
+[Coalition](../../Fonts/C/coalition)
+
+<img src="Coalition.png" width="710" height="100" />
+
+###Cocogoose
+
+[Cocogoose](../../Fonts/C/cocogoose)
+
+<img src="Cocogoose.png" width="710" height="100" />
+
+###Cocogoose_Letterpress
+
+[Cocogoose_Letterpress](../../Fonts/C/cocogoose_letterpress)
+
+<img src="Cocogoose_Letterpress.png" width="710" height="100" />
 
 ###coda
 
@@ -197,6 +347,12 @@
 [College](../../Fonts/C/College)
 
 <img src="College.png" width="710" height="100" />
+
+###Colors_Of_Autumn
+
+[Colors_Of_Autumn](../../Fonts/C/colors_of_autumn)
+
+<img src="Colors_Of_Autumn.png" width="710" height="100" />
 
 ###CombiNumerals-Ltd
 
@@ -240,11 +396,23 @@
 
 <img src="condiment.png" width="710" height="100" />
 
+###Coneria_Script
+
+[Coneria_Script](../../Fonts/C/coneria_script)
+
+<img src="Coneria_Script.png" width="710" height="100" />
+
 ###Contra
 
 [Contra](../../Fonts/C/Contra)
 
 <img src="Contra.png" width="710" height="100" />
+
+###Coolvetica
+
+[Coolvetica](../../Fonts/C/coolvetica)
+
+<img src="Coolvetica.png" width="710" height="100" />
 
 ###cooper-hewitt
 
@@ -282,6 +450,12 @@
 
 <img src="cousine.png" width="710" height="100" />
 
+###Couture
+
+[Couture](../../Fonts/C/couture)
+
+<img src="Couture.png" width="710" height="100" />
+
 ###cowboy-hippie-pro
 
 [cowboy-hippie-pro](../../Fonts/C/cowboy-hippie-pro)
@@ -293,6 +467,12 @@
 [Credit-Valley](../../Fonts/C/Credit-Valley)
 
 <img src="Credit-Valley.png" width="710" height="100" />
+
+###Cresent
+
+[Cresent](../../Fonts/C/cresent)
+
+<img src="Cresent.png" width="710" height="100" />
 
 ###crete-round
 
@@ -311,6 +491,12 @@
 [cuprum](../../Fonts/C/cuprum)
 
 <img src="cuprum.png" width="710" height="100" />
+
+###Cute_Cartoon
+
+[Cute_Cartoon](../../Fonts/C/cute_cartoon)
+
+<img src="Cute_Cartoon.png" width="710" height="100" />
 
 ###SF-Cartoonist-Hand
 
