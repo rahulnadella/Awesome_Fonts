@@ -18,11 +18,23 @@
 
 <img src="daniel.png" width="710" height="100" />
 
+###Darleston
+
+[Darleston](../../Fonts/D/darleston)
+
+<img src="Darleston.png" width="710" height="100" />
+
 ###Davys
 
 [Davys](../../Fonts/D/Davys)
 
 <img src="Davys.png" width="710" height="100" />
+
+###Daydreamer
+
+[Daydreamer](../../Fonts/D/daydreamer)
+
+<img src="Daydreamer.png" width="710" height="100" />
 
 ###DayPosterBlack
 
@@ -144,17 +156,41 @@
 
 <img src="Dobkin.png" width="710" height="100" />
 
+###Dolce_Vita
+
+[Dolce_Vita](../../Fonts/D/dolce_vita)
+
+<img src="Dolce_Vita.png" width="710" height="100" />
+
 ###dosis
 
 [dosis](../../Fonts/D/dosis)
 
 <img src="dosis.png" width="710" height="100" />
 
+###Double_Bubble
+
+[Double_Bubble](../../Fonts/D/double_bubble)
+
+<img src="Double_Bubble.png" width="710" height="100" />
+
+###Double_Feature
+
+[Double_Feature](../../Fonts/D/double_feature)
+
+<img src="Double_Feature.png" width="710" height="100" />
+
 ###dpsdbeyond
 
 [dpsdbeyond](../../Fonts/D/dpsdbeyond)
 
 <img src="dpsdbeyond.png" width="710" height="100" />
+
+###Dragon_is_Coming
+
+[Dragon_is_Coming](../../Fonts/D/dragon_is_coming)
+
+<img src="Dragon_is_Coming.png" width="710" height="100" />
 
 ###drawveticamini
 
@@ -185,6 +221,12 @@
 [Droid](../../Fonts/D/Droid)
 
 <img src="Droid.png" width="710" height="100" />
+
+###DS_Digital
+
+[DS_Digital](../../Fonts/D/ds_digital)
+
+<img src="DS_Digital.png" width="710" height="100" />
 
 ###DubielPlain
 
