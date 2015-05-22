@@ -30,6 +30,12 @@
 
 <img src="varela.png" width="710" height="100" />
 
+###Varsity
+
+[Varsity](../../Fonts/V/varsity_regular)
+
+<img src="Varsity.png" width="710" height="100" />
+
 ###vast-shadow
 
 [vast-shadow](../../Fonts/V/vast-shadow)
