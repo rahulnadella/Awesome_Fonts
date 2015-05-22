@@ -90,12 +90,6 @@
 
 <img src="League-Gothic.png" width="710" height="100" />
 
-###league-script-1
-
-[league-script-1](../../Fonts/L/league-script-1)
-
-<img src="league-script-1.png" width="710" height="100" />
-
 ###league-script
 
 [league-script](../../Fonts/L/league-script)
