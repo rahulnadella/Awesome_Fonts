@@ -60,6 +60,12 @@
 
 <img src="Underwood-Champion.png" width="710" height="100" />
 
+###Union_Gray
+
+[Union_Gray](../../Fonts/U/union_gray)
+
+<img src="Union_Gray.png" width="710" height="100" />
+
 ###Universal-fruitcake
 
 [Universal-fruitcake](../../Fonts/U/Universal-fruitcake)
@@ -77,6 +83,12 @@
 [uppereastside](../../Fonts/U/uppereastside)
 
 <img src="uppereastside.png" width="710" height="100" />
+
+###Urban_Jungle
+
+[Urban_Jungle](../../Fonts/U/urban_jungle)
+
+<img src="Urban_Jungle.png" width="710" height="100" />
 
 ###Utility
 
