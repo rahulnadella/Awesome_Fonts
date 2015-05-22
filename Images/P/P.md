@@ -12,6 +12,18 @@
 
 <img src="Paete-Round.png" width="710" height="100" />
 
+###Paljain_jaloin
+
+[Paljain_jaloin](../../Fonts/P/paljain_jaloin)
+
+<img src="Paljain_jaloin.png" width="710" height="100" />
+
+###Palm_Beach
+
+[Palm_Beach](../../Fonts/P/palm_beach)
+
+<img src="Palm_Beach.png" width="710" height="100" />
+
 ###palo-alto
 
 [palo-alto](../../Fonts/P/palo-alto)
@@ -23,6 +35,18 @@
 [panefresco](../../Fonts/P/panefresco)
 
 <img src="panefresco.png" width="710" height="100" />
+
+###Paper_Banner
+
+[Paper_Banner](../../Fonts/P/paper_banner)
+
+<img src="Paper_Banner.png" width="710" height="100" />
+
+###Party_Chocolate_and_Soda
+
+[Party_Chocolate_and_Soda](../../Fonts/P/party_chocolate_and_soda)
+
+<img src="Party_Chocolate_and_Soda.png" width="710" height="100" />
 
 ###passion-one
 
@@ -36,17 +60,29 @@
 
 <img src="patua-one.png" width="710" height="100" />
 
-###PaulMaul
+###Paysley_Sports
 
-[PaulMaul](../../Fonts/P/PaulMaul)
+[Paysley_Sports](../../Fonts/P/paysley_sports)
 
-<img src="PaulMaul.png" width="710" height="100" />
+<img src="Paysley_Sports.png" width="710" height="100" />
+
+###panefresco
+
+[panefresco](../../Fonts/P/panefresco)
+
+<img src="panefresco.png" width="710" height="100" />
 
 ###Pecita
 
 [Pecita](../../Fonts/P/Pecita)
 
 <img src="Pecita.png" width="710" height="100" />
+
+###Pepsi
+
+[Pepsi](../../Fonts/P/pepsi)
+
+<img src="Pepsi.png" width="710" height="100" />
 
 ###permanent-marker
 
@@ -78,6 +114,18 @@
 
 <img src="Perspective-Sans.png" width="710" height="100" />
 
+###Pharmount
+
+[Pharmount](../../Fonts/P/pharmount)
+
+<img src="Pharmount.png" width="710" height="100" />
+
+###Philadelphian_Gothic
+
+[Philadelphian_Gothic](../../Fonts/P/philadelphian_gothic)
+
+<img src="Philadelphian_Gothic.png" width="710" height="100" />
+
 ###piedra
 
 [piedra](../../Fonts/P/piedra)
@@ -102,6 +150,18 @@
 
 <img src="PlainBlack.png" width="710" height="100" />
 
+###Plane_Crash
+
+[Plane_Crash](../../Fonts/P/plane_crash)
+
+<img src="Plane_Crash.png" width="710" height="100" />
+
+###Planet_Kosmos
+
+[Planet_Kosmos](../../Fonts/P/planet_kosmos)
+
+<img src="Planet_Kosmos.png" width="710" height="100" />
+
 #Plasma-Drip-BRK
 
 [Plasma-Drip-BRK](../../Fonts/P/Plasma-Drip-BRK)
@@ -113,6 +173,12 @@
 [play](../../Fonts/P/play)
 
 <img src="play.png" width="710" height="100" />
+
+###Player_one
+
+[Player_one](../../Fonts/P/player_one)
+
+<img src="Player_one.png" width="710" height="100" />
 
 ###playfair-display
 
@@ -144,11 +210,23 @@
 
 <img src="Plug-NickelBlack.png" width="710" height="100" />
 
+###Plump
+
+[Plump](../../Fonts/P/plump)
+
+<img src="Plump.png" width="710" height="100" />
+
 ###podkova
 
 [podkova](../../Fonts/P/podkova)
 
 <img src="podkova.png" width="710" height="100" />
+
+###Poetsen_One
+
+[Poetsen_One](../../Fonts/P/poetsen_one)
+
+<img src="Poetsen_One.png" width="710" height="100" />
 
 ###poetsen
 
@@ -161,6 +239,12 @@
 [Poilet-Taper](../../Fonts/P/Poilet-Taper)
 
 <img src="Poilet-Taper.png" width="710" height="100" />
+
+###Pokemon
+
+[Pokemon](../../Fonts/P/pokemon)
+
+<img src="Pokemon.png" width="710" height="100" />
 
 ###polsku
 
@@ -192,6 +276,12 @@
 
 <img src="porter-sans.png" width="710" height="100" />
 
+###Pricedown
+
+[Pricedown](../../Fonts/P/pricedown)
+
+<img src="Pricedown.png" width="710" height="100" />
+
 ###Print-Clearly
 
 [Print-Clearly](../../Fonts/P/Print-Clearly)
@@ -203,6 +293,12 @@
 [Printers-Ornaments-One](../../Fonts/P/Printers-Ornaments-One)
 
 <img src="Printers-Ornaments-One.png" width="710" height="100" />
+
+###Prisma
+
+[Prisma](../../Fonts/P/prisma)
+
+<img src="Prisma.png" width="710" height="100" />
 
 ###Prociono
 
