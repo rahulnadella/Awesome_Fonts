@@ -48,6 +48,12 @@
 
 <img src="kawoszeh.png" width="710" height="100" />
 
+###Keep_Calm
+
+[Keep_Calm](../../Fonts/K/keep_calm)
+
+<img src="Keep_Calm.png" width="710" height="100" />
+
 ###Kells-SD
 
 [Kells-SD](../../Fonts/K/Kells-SD)
@@ -65,6 +71,12 @@
 [KelmscottRoman](../../Fonts/K/KelmscottRoman)
 
 <img src="KelmscottRoman.png" width="710" height="100" />
+
+###Kikelet_Brush
+
+[Kikelet_Brush](../../Fonts/K/kikelet_brush)
+
+<img src="Kikelet_Brush.png" width="710" height="100" />
 
 ###Kingthings-Calligraphica
 
@@ -204,6 +216,12 @@
 
 <img src="Kontrapunkt.png" width="710" height="100" />
 
+###Kraash
+
+[Kraash](../../Fonts/K/kraash)
+
+<img src="Kraash.png" width="710" height="100" />
+
 ###Krazy-Nights
 
 [Krazy-Nights](../../Fonts/K/Krazy-Nights)
@@ -215,6 +233,12 @@
 [kreon](../../Fonts/K/kreon)
 
 <img src="kreon.png" width="710" height="100" />
+
+###Krinkes
+
+[Krinkes](../../Fonts/K/krinkes)
+
+<img src="Krinkes.png" width="710" height="100" />
 
 ###kristi
 
