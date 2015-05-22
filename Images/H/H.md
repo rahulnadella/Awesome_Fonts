@@ -6,6 +6,18 @@
 
 <img src="habibi.png" width="710" height="100" />
 
+###Hacked
+
+[Hacked](../../Fonts/H/hacked)
+
+<img src="Hacked.png" width="710" height="100" />
+
+###Halo_Handletter
+
+[Halo_Handletter](../../Fonts/H/halohandletter)
+
+<img src="Halo_Handletter.png" width="710" height="100" />
+
 ###HamburgerHeaven
 
 [HamburgerHeaven](../../Fonts/H/HamburgerHeaven)
@@ -30,11 +42,41 @@
 
 <img src="hanalei.png" width="710" height="100" />
 
+###Hand_of_Sean
+
+[Hand_of_Sean](../../Fonts/H/hand_of_sean)
+
+<img src="Hand_of_Sean.png" width="710" height="100" />
+
+###Hand_Shop_Typography
+
+[Hand_Shop_Typography](../../Fonts/H/hand_shop_typography_c30)
+
+<img src="Hand_Shop_Typography.png" width="710" height="100" />
+
+###Hanging_Letters
+
+[Hanging_Letters](../../Fonts/H/hanging_letters)
+
+<img src="Hanging_Letters.png" width="710" height="100" />
+
+###Harabara
+
+[Harabara](../../Fonts/H/harabara)
+
+<img src="Harabara.png" width="710" height="100" />
+
 ###HarabaraHand
 
 [HarabaraHand](../../Fonts/H/HarabaraHand)
 
 <img src="HarabaraHand.png" width="710" height="100" />
+
+###Harry_P
+
+[Harry_P](../../Fonts/H/harry_p)
+
+<img src="Harry_P.png" width="710" height="100" />
 
 ###Harting
 
@@ -48,11 +90,23 @@
 
 <img src="Hattori-Hanzo.png" width="710" height="100" />
 
+###Hazel_Grace
+
+[Hazel_Grace](../../Fonts/H/hazel_grace)
+
+<img src="Hazel_Grace.png" width="710" height="100" />
+
 ###Headhunter
 
 [Headhunter](../../Fonts/H/Headhunter)
 
 <img src="Headhunter.png" width="710" height="100" />
+
+###Heavy_Metal_Rocking
+
+[Heavy_Metal_Rocking](../../Fonts/H/heavy_metal_rocking)
+
+<img src="Heavy_Metal_Rocking.png" width="710" height="100" />
 
 ###Heavy-Data
 
@@ -96,11 +150,11 @@
 
 <img src="heuristica.png" width="710" height="100" />
 
-###garogier
+###Hipsterish
 
-[garogier](../../Fonts/H/garogier)
+[Hipsterish](../../Fonts/H/hipsterish)
 
-<img src="garogier.png" width="710" height="100" />
+<img src="Hipsterish.png" width="710" height="100" />
 
 ###heydings-common-icons
 
@@ -126,11 +180,23 @@
 
 <img src="Hominis.png" width="710" height="100" />
 
+###Honey_Script
+
+[Honey_Script](../../Fonts/H/honey_script)
+
+<img src="Honey_Script.png" width="710" height="100" />
+
 ###Hornswoggled
 
 [Hornswoggled](../../Fonts/H/Hornswoggled)
 
 <img src="Hornswoggled.png" width="710" height="100" />
+
+###Housegrind
+
+[Housegrind](../../Fonts/H/Housegrind)
+
+<img src="Housegrind.png" width="710" height="100" />
 
 ###HVD-Bodedo
 
