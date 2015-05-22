@@ -114,6 +114,12 @@
 
 <img src="sevillana.png" width="710" height="100" />
 
+###SF_Movie_Poster
+
+[SF_Movie_Poster](../../Fonts/S/sf_movie_poster)
+
+<img src="SF_Movie_Poster.png" width="710" height="100" />
+
 ###SF-Shai-Fontai
 
 [SF-Shai-Fontai](../../Fonts/S/SF-Shai-Fontai)
@@ -168,6 +174,12 @@
 
 <img src="sigmar.png" width="710" height="100" />
 
+###Signerica
+
+[Signerica](../../Fonts/S/signerica)
+
+<img src="Signerica.png" width="710" height="100" />
+
 ###signika
 
 [signika](../../Fonts/S/signika)
@@ -216,6 +228,24 @@
 
 <img src="Sjonarbok-Classic.png" width="710" height="100" />
 
+###Skater_Girls_Rock
+
+[Skater_Girls_Rock](../../Fonts/S/skater_girls_rock)
+
+<img src="Skater_Girls_Rock.png" width="710" height="100" />
+
+###Sketch_Gothic_School
+
+[Sketch_Gothic_School](../../Fonts/S/sketch_gothic_school)
+
+<img src="Sketch_Gothic_School.png" width="710" height="100" />
+
+###slabo
+
+[slabo](../../Fonts/S/slabo)
+
+<img src="slabo.png" width="710" height="100" />
+
 ###slabo
 
 [slabo](../../Fonts/S/slabo)
@@ -240,6 +270,12 @@
 
 <img src="smokum.png" width="710" height="100" />
 
+###Snacker_Comic
+
+[Snacker_Comic](../../Fonts/S/snacker_comic)
+
+<img src="Snacker_Comic.png" width="710" height="100" />
+
 ###Snickles
 
 [Snickles](../../Fonts/S/Snickles)
@@ -258,23 +294,41 @@
 
 <img src="snippet.png" width="710" height="100" />
 
+###Social_Logos
+
+[Social_Logos](../../Fonts/S/social_logos)
+
+<img src="Social_Logos.png" width="710" height="100" />
+
 ###sofadi-one
 
 [sofadi-one](../../Fonts/S/sofadi-one)
 
 <img src="sofadi-one.png" width="710" height="100" />
 
-###sofia-pro-condensed
+###sofia
 
-[sofia-pro-condensed](../../Fonts/S/sofia-pro-condensed)
+[sofia](../../Fonts/S/sofia)
 
-<img src="sofia-pro-condensed.png" width="710" height="100" />
+<img src="sofia.png" width="710" height="100" />
+
+###Soft_Elegance
+
+[Soft_Elegance](../../Fonts/S/soft_elegance)
+
+<img src="Soft_Elegance.png" width="710" height="100" />
 
 ###Soft-Sugar-plain
 
 [Soft-Sugar-plain](../../Fonts/S/Soft-Sugar-plain)
 
 <img src="Soft-Sugar-plain.png" width="710" height="100" />
+
+###Some_Weatz
+
+[Some_Weatz](../../Fonts/S/some_weatz)
+
+<img src="Some_Weatz.png" width="710" height="100" />
 
 ###sonsie-one
 
@@ -311,6 +365,18 @@
 [source-serif-pro](../../Fonts/S/source-serif-pro)
 
 <img src="source-serif-pro.png" width="710" height="100" />
+
+###Southern_Aire
+
+[Southern_Aire](../../Fonts/S/southern_aire)
+
+<img src="Southern_Aire.png" width="710" height="100" />
+
+###Space_Comics
+
+[Space_Comics](../../Fonts/S/space_comics)
+
+<img src="Space_Comics.png" width="710" height="100" />
 
 ###special-elite
 
@@ -354,6 +420,12 @@
 
 <img src="st-marie.png" width="710" height="100" />
 
+###Star_Jedi
+
+[Star_Jedi](../../Fonts/S/star_jedi)
+
+<img src="Star_Jedi.png" width="710" height="100" />
+
 ###stardos-stencil
 
 [stardos-stencil](../../Fonts/S/stardos-stencil)
@@ -366,11 +438,41 @@
 
 <img src="stateface.png" width="710" height="100" />
 
+###Stereofidelic
+
+[Stereofidelic](../../Fonts/S/stereofidelic)
+
+<img src="Stereofidelic.png" width="710" height="100" />
+
+###Stink_on_the_Death
+
+[Stink_on_the_Death](../../Fonts/S/stink_on_the_death)
+
+<img src="Stink_on_the_Death.png" width="710" height="100" />
+
+###Streamster
+
+[Streamster](../../Fonts/S/streamster)
+
+<img src="Streamster.png" width="710" height="100" />
+
 ###Streetwise-buddy
 
 [Streetwise-buddy](../../Fonts/S/Streetwise-buddy)
 
 <img src="Streetwise-buddy.png" width="710" height="100" />
+
+###Super_Hero_Docall
+
+[Super_Hero_Docall](../../Fonts/S/super_hero_docall)
+
+<img src="Super_Hero_Docall.png" width="710" height="100" />
+
+###Super_Mario_256
+
+[Super_Mario_256](../../Fonts/S/super_mario_256)
+
+<img src="Super_Mario_256.png" width="710" height="100" />
 
 ###Studebaker
 
@@ -383,6 +485,24 @@
 [surface](../../Fonts/S/surface)
 
 <img src="surface.png" width="710" height="100" />
+
+###Sverge_Script
+
+[Sverge_Script](../../Fonts/S/sverge_script)
+
+<img src="Sverge_Script.png" width="710" height="100" />
+
+###Sweet_Pea
+
+[Sweet_Pea](../../Fonts/S/sweet_pea)
+
+<img src="Sweet_Pea.png" width="710" height="100" />
+
+###Swistblnk_Monthoers
+
+[Swistblnk_Monthoers](../../Fonts/S/swistblnk_monthoers)
+
+<img src="Swistblnk_Monthoers.png" width="710" height="100" />
 
 ###Sybil-Green
 
