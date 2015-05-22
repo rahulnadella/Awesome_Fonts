@@ -1,5 +1,11 @@
 # B Fonts
 
+###Badaboom
+
+[Badaboom](../../Fonts/B/badaboom_bb)
+
+<img src="Badaboom.png" width="710" height="100" />
+
 ###bahiana
 
 [bahiana](../../Fonts/B/bahiana)
@@ -12,11 +18,23 @@
 
 <img src="Banksia.png" width="710" height="100" />
 
+###Barcode_Font
+
+[Barcode_Font](../../Fonts/B/barcode_font)
+
+<img src="Barcode_Font.png" width="710" height="100" />
+
 ###barrio
 
 [barrio](../../Fonts/B/barrio)
 
 <img src="barrio.png" width="710" height="100" />
+
+###Basic_Title
+
+[Basic_Title](../../Fonts/B/basictitlefont)
+
+<img src="Basic_Title.png" width="710" height="100" />
 
 ###Bearpaw
 
@@ -29,6 +47,24 @@
 [Bebas](../../Fonts/B/Bebas)
 
 <img src="Bebas.png" width="710" height="100" />
+
+###Bebas Neue
+
+[Bebas Neue](../../Fonts/B/BebasNeue)
+
+<img src="bebas-neue.png" width="710" height="100" />
+
+###Before_the_Rain
+
+[Before_the_Rain](../../Fonts/B/before_the_rain)
+
+<img src="Before_the_Rain.png" width="710" height="100" />
+
+###Bellerose
+
+[Bellerose](../../Fonts/B/bellerose)
+
+<img src="Bellerose.png" width="710" height="100" />
 
 ###Belligerent Madness
 
@@ -54,6 +90,12 @@
 
 <img src="Bentham.png" width="710" height="100" />
 
+###Bergamot_Ornaments
+
+[Bergamot_Ornaments](../../Fonts/B/bergamot_ornaments)
+
+<img src="Bergamot_Ornaments.png" width="710" height="100" />
+
 ###Berylium
 
 [Berylium](../../Fonts/B/Berylium)
@@ -72,11 +114,41 @@
 
 <img src="Bigfish.png" width="710" height="100" />
 
+###Big_Noodle_Titling
+
+[Big_Noodle_Titling](../../Fonts/B/Big_Noodle_Titling)
+
+<img src="Big_Noodle_Titling.png" width="710" height="100" />
+
+###Biko
+
+[Biko](../../Fonts/B/biko)
+
+<img src="Biko.png" width="710" height="100" />
+
 ###bilbo
 
 [bilbo](../../Fonts/B/bilbo)
 
 <img src="bilbo.png" width="710" height="100" />
+
+###Billion_Stars
+
+[Billion_Stars](../../Fonts/B/billion_stars)
+
+<img src="Billion_Stars.png" width="710" height="100" />
+
+###Biloxi_Script
+
+[Biloxi_Script](../../Fonts/B/biloxi_script)
+
+<img src="Biloxi_Script.png" width="710" height="100" />
+
+###Birds_of_Paradise
+
+[Birds_of_Paradise](../../Fonts/B/birds_of_paradise)
+
+<img src="Birds_of_Paradise.png" width="710" height="100" />
 
 ###Bitstream Vera Sans Mono
 
@@ -102,6 +174,12 @@
 
 <img src="bitter.png" width="710" height="100" />
 
+###Black_Jack
+
+[Black_Jack](../../Fonts/B/BlackJack)
+
+<img src="Black_Jack.png" width="710" height="100" />
+
 ###Black Rose
 
 [Black Rose](../../Fonts/B/Black-Rose)
@@ -126,6 +204,18 @@
 
 <img src="Blackout.png" width="710" height="100" />
 
+###Blazed
+
+[Blazed](../../Fonts/B/blazed)
+
+<img src="Blazed.png" width="710" height="100" />
+
+###Bleeding_Cowboys
+
+[Bleeding_Cowboys](../../Fonts/B/bleeding_cowboys)
+
+<img src="Bleeding_Cowboys.png" width="710" height="100" />
+
 ###blogger sans
 
 [blogger sans](../../Fonts/B/blogger-sans)
@@ -137,6 +227,12 @@
 [Blokletters Potlood](../../Fonts/B/Blokletters-Potlood)
 
 <img src="Blokletters-Potlood.png" width="710" height="100" />
+
+###Blood_Shade
+
+[Blood_Shade](../../Fonts/B/blood_shade)
+
+<img src="Blood_Shade.png" width="710" height="100" />
 
 ###Bloody
 
@@ -156,6 +252,12 @@
 
 <img src="BodoniXT.png" width="710" height="100" />
 
+###Bombing
+
+[Bombing](../../Fonts/B/bombing)
+
+<img src="Bombing.png" width="710" height="100" />
+
 ###BonvenoCF
 
 [BonvenoCF](../../Fonts/B/BonvenoCF)
@@ -167,6 +269,12 @@
 [boogaloo](../../Fonts/B/boogaloo)
 
 <img src="boogaloo.png" width="710" height="100" />
+
+###Boring
+
+[Boring](../../Fonts/B/boring)
+
+<img src="Boring.png" width="710" height="100" />
 
 ###Boston-Traffic
 
@@ -228,11 +336,29 @@
 
 <img src="BPscript.png" width="710" height="100" />
 
+###Brain_Flower
+
+[Brain_Flower](../../Fonts/B/brain_flower)
+
+<img src="Brain_Flower.png" width="710" height="100" />
+
+###Brannboll
+
+[Brannboll](../../Fonts/B/brannboll)
+
+<img src="Brannboll.png" width="710" height="100" />
+
 ###brawler
 
 [brawler](../../Fonts/B/brawler)
 
 <img src="brawler.png" width="710" height="100" />
+
+###Break_the_Rules
+
+[Break_the_Rules](../../Fonts/B/break_the_rules)
+
+<img src="Break_the_Rules.png" width="710" height="100" />
 
 ###bree-serif
 
@@ -240,17 +366,41 @@
 
 <img src="bree-serif.png" width="710" height="100" />
 
+###Brotherhood_Script
+
+[Brotherhood_Script](../../Fonts/B/brotherhood_script)
+
+<img src="Brotherhood_Script.png" width="710" height="100" />
+
 ###Brushstroke-Plain
 
 [Brushstroke-Plain](../../Fonts/B/Brushstroke-Plain)
 
 <img src="Brushstroke-Plain.png" width="710" height="100" />
 
+###Bubble_Soap
+
+[Bubble_Soap](../../Fonts/B/bubble_soap)
+
+<img src="Bubble_Soap.png" width="710" height="100" />
+
+###BubbleGum
+
+[BubbleGum](../../Fonts/B/bubblegum)
+
+<img src="BubbleGum.png" width="710" height="100" />
+
 ###bubblegum-sans
 
 [bubblegum-sans](../../Fonts/B/bubblegum-sans)
 
 <img src="bubblegum-sans.png" width="710" height="100" />
+
+###Budmo
+
+[Budmo](../../Fonts/B/Budmo)
+
+<img src="Budmo.png" width="710" height="100" />
 
 ###Burnstown-Dam
 
