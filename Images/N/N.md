@@ -12,11 +12,29 @@
 
 <img src="Negotiate.png" width="710" height="100" />
 
+###Nella_Sue
+
+[Nella_Sue](../../Fonts/N/nella_sue)
+
+<img src="Nella_Sue.png" width="710" height="100" />
+
 ###NeoRetroDraw
 
 [NeoRetroDraw](../../Fonts/N/NeoRetroDraw)
 
 <img src="NeoRetroDraw.png" width="710" height="100" />
+
+###Neoteric
+
+[Neoteric](../../Fonts/N/neoteric)
+
+<img src="Neoteric.png" width="710" height="100" />
+
+###Neou
+
+[Neou](../../Fonts/N/neou)
+
+<img src="Neou.png" width="710" height="100" />
 
 ###neris
 
@@ -53,6 +71,12 @@
 [new-rocker](../../Fonts/N/new-rocker)
 
 <img src="new-rocker.png" width="710" height="100" />
+
+###News_of_the_World
+
+[News_of_the_World](../../Fonts/N/news_of_the_world)
+
+<img src="News_of_the_World.png" width="710" height="100" />
 
 ###news-cycle
 
@@ -108,6 +132,12 @@
 
 <img src="Note-this.png" width="710" height="100" />
 
+###Notera
+
+[Notera](../../Fonts/N/notera)
+
+<img src="Notera.png" width="710" height="100" />
+
 ###Notice
 
 [Notice](../../Fonts/N/Notice)
@@ -137,6 +167,12 @@
 [noto-serif](../../Fonts/N/noto-serif)
 
 <img src="noto-serif.png" width="710" height="100" />
+
+###Nova
+
+[Nova](../../Fonts/N/nova)
+
+<img src="Nova.png" width="710" height="100" />
 
 ###numans
 
