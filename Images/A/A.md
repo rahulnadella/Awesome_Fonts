@@ -76,7 +76,7 @@
 
 [Adhesive-Nr.-Seven](../../Fonts/A/Adhesive-Nr.-Seven)
 
-<img src="Adhesive-Nr.-Seven.png" width="710" height="100" />
+<img src="Adhesive-Nr-Seven.png" width="710" height="100" />
 
 ###Admiration_Pains
 
@@ -106,7 +106,7 @@
 
 [After Shok](../../Fonts/A/Action-Shok)
 
-<img src="Action-Shok.png" width="710" height="100" />
+<img src="After-Shok.png" width="710" height="100" />
 
 ###Agent Orange
 
@@ -320,9 +320,9 @@
 
 ###archistico daughter
 
-[archistico daughter](../../Fonts/A/archistico-daughter)
+[archistico daughter](../../Fonts/A/architects-daughter)
 
-<img src="archistico-daughter.png" width="710" height="100" />
+<img src="architects-daughter.png" width="710" height="100" />
 
 ###archivo black
 
