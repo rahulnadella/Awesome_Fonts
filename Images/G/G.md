@@ -256,4 +256,4 @@
 
 [Gudea](../../Fonts/G/Gudea)
 
-<img src="Gudea.png" width="710" height="100" />
+<img src="gudea.png" width="710" height="100" />
