@@ -228,6 +228,12 @@
 
 <img src="Blokletters-Potlood.png" width="710" height="100" />
 
+###Blood Blocks
+
+[Blood Blocks](../../Fonts/B/bloodblocks)
+
+<img src="blood_blocks.png" width="710" height="100" />
+
 ###Blood_Shade
 
 [Blood_Shade](../../Fonts/B/blood_shade)
