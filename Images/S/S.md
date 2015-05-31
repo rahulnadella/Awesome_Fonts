@@ -270,6 +270,12 @@
 
 <img src="smokum.png" width="710" height="100" />
 
+###Smoothie Shoppe
+
+[smoothie_shoppe](../../Fonts/S/smoothie_shoppe)
+
+<img src="smoothie_shoppe.png" width="710" height="100" />
+
 ###Snacker_Comic
 
 [Snacker_Comic](../../Fonts/S/snacker_comic)
