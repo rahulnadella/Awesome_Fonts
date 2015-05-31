@@ -414,17 +414,23 @@
 
 <img src="Audimat-Mono.png" width="710" height="100" />
 
+###Aurulent Sans
+
+[Aurulent Sans](../../Fonts/A/Aurulent-Sans)
+
+<img src="Aurulent-Sans.png" width="710" height="100" />
+
 ###Aurulent Sans Mono
 
 [Aurulent Sans Mono](../../Fonts/A/Aurulent-Sans-Mono)
 
 <img src="Aurulent-Sans-Mono.png" width="710" height="100" />
 
-###Aurulent Sans
+###Autograf
 
-[Aurulent Sans](../../Fonts/A/Aurulent-Sans)
+[Autograf](../../Fonts/A/autograf)
 
-<img src="Aurulent-Sans.png" width="710" height="100" />
+<img src="Autograf.png" width="710" height="100" />
 
 ###autour one
 
