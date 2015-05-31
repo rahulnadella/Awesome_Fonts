@@ -456,6 +456,12 @@
 
 <img src="Stink_on_the_Death.png" width="710" height="100" />
 
+###Stormfaze
+
+[Stormfaze](../../Fonts/S/stormfaze)
+
+<img src="stormfaze.png" width="710" height="100" />
+
 ###Streamster
 
 [Streamster](../../Fonts/S/streamster)
