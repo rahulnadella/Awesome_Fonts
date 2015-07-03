@@ -438,30 +438,6 @@
 
 <img src="Copystruct.png" width="710" height="100" />
 
-###Corbert
-
-[Corbert](../../Fonts/C/corbert)
-
-<img src="corbert.png" width="710" height="100" />
-
-###Corbert Condensed
-
-[Corbert Condensed](../../Fonts/C/corbert-condensed)
-
-<img src="corbert-condensed.png" width="710" height="100" />
-
-###Corda
-
-[Corda](../../Fonts/C/corda)
-
-<img src="corda.png" width="710" height="100" />
-
-###Corehumanist Sans
-
-[Corehumanist Sans](../../Fonts/C/corehumanistsans)
-
-<img src="corehumanistsans.png" width="710" height="100" />
-
 ###Cosmo Stitch
 
 [Cosmo Stitch](../../Fonts/C/Cosmo_Stitch)
