@@ -324,6 +324,12 @@
 
 <img src="Cocogoose_Letterpress.png" width="710" height="100" />
 
+###Cocomat
+
+[Cocomat](../../Fonts/C/cocomat)
+
+<img src="cocomat.png" width="710" height="100" />
+
 ###coda
 
 [coda](../../Fonts/C/coda)
