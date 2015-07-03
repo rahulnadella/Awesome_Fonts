@@ -282,6 +282,12 @@
 
 <img src="Boring.png" width="710" height="100" />
 
+###Boston
+
+[Boston](../../Fonts/B/Boston)
+
+<img src="Boston.png" width="710" height="100" />
+
 ###Boston-Traffic
 
 [Boston-Traffic](../../Fonts/B/Boston-Traffic)
