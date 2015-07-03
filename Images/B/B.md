@@ -150,6 +150,12 @@
 
 <img src="Birds_of_Paradise.png" width="710" height="100" />
 
+###Bisous
+
+[Bisous](../../Fonts/B/bisous)
+
+<img src="bisous.png" width="710" height="100" />
+
 ###Bitstream Vera Sans Mono
 
 [Bitstream Vera Sans Mono](../../Fonts/B/Bitstream-Vera-Sans-Mono)
