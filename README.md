@@ -1,6 +1,6 @@
 # Awesome_Fonts
 
-A project that contains many of the popular fonts available on the web. The majority of fonts have been found on [1001 Free Fonts](http://www.1001freefonts.com/), [Font Squirrel](http://www.fontsquirrel.com/) and [Da Font](http://www.dafont.com/).
+A project that contains many of the popular ***independent*** fonts available on the web. The majority of fonts have been found on [1001 Free Fonts](http://www.1001freefonts.com/), [Font Squirrel](http://www.fontsquirrel.com/) and [Da Font](http://www.dafont.com/).
 
 Many of these fonts are free for personal use but must be purchase through a license for commerical use through the many popular distribution website (for instance: [MyFonts](http://www.myfonts.com/)) or through the designers personal website.
 
