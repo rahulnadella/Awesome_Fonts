@@ -294,6 +294,12 @@
 
 <img src="lobster-two.png" width="710" height="100" />
 
+###Logoskate
+
+[logoskate](../../Fonts/L/logoskate)
+
+<img src="logoskate.png" width="710" height="100" />
+
 ###Loki_Cola
 
 [Loki_Cola](../../Fonts/L/loki_cola)
