@@ -78,6 +78,12 @@
 
 <img src="Pecita.png" width="710" height="100" />
 
+###Peinture Fraiche
+
+[Peinture Fraiche](../../Fonts/P/Peinture_Fraiche)
+
+<img src="Peinture_Fraiche.png" width="710" height="100" />
+
 ###Pepsi
 
 [Pepsi](../../Fonts/P/pepsi)

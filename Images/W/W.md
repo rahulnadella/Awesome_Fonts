@@ -108,6 +108,12 @@
 
 <img src="wellfleet.png" width="710" height="100" />
 
+###Weltron Special Power / 2001
+
+[weltron_sp2001](../../Fonts/W/weltron_sp2001)
+
+<img src="weltron_sp2001.png" width="710" height="100" />
+
 ###Western_Bang_Bang
 
 [Western_Bang_Bang](../../Fonts/W/western_bang_bang)
