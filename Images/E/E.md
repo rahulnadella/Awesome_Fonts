@@ -114,6 +114,12 @@
 
 <img src="exotica.png" width="710" height="100" />
 
+###Expedition
+
+[Expedition](../../Fonts/E/Expedition)
+
+<img src="Expedition.png" width="710" height="100" />
+
 ###Eyes_Wide_Open
 
 [Eyes_Wide_Open](../../Fonts/E/eyes_wide_open)
