@@ -120,6 +120,12 @@
 
 <img src="Diner-Skinny.png" width="710" height="100" />
 
+###Direct_du_Gauche
+
+[Direct_du_Gauche](../../Fonts/D/Direct_du_Gauche)
+
+<img src="Direct_du_Gauche.png" width="710" height="100" />
+
 ###DISCO
 
 [DISCO](../../Fonts/D/DISCO)
