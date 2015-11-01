@@ -108,6 +108,12 @@
 
 <img src="sedgwick-co.png" width="710" height="100" />
 
+###September-Mornings
+
+[September-Mornings](../../Fonts/S/September-Mornings)
+
+<img src="September-Mornings.png" width="710" height="100" />
+
 ###Sesquipedalian
 
 [Sesquipedalian](../../Fonts/S/Sesquipedalian)
