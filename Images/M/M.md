@@ -198,6 +198,12 @@
 
 <img src="mikodacs.png" width="710" height="100" />
 
+###Milasian-Circa
+
+[Milasian-Circa](../../Fonts/M/Milasian-Circa)
+
+<img src="Milasian_Circa.png" width="710" height="100" />
+
 ###Millennia
 
 [Millennia](../../Fonts/M/Millennia)
