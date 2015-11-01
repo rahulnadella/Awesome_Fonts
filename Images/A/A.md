@@ -438,6 +438,12 @@
 
 <img src="autour-one.png" width="710" height="100" />
 
+###Autumn-Chant
+
+[Autumn-Chant](../../Fonts/A/Autumn-Chant)
+
+<img src="Autumn-Chant.png" width="710" height="100" />
+
 ###Avengeance
 
 [Avengeance](../../Fonts/A/avengeance)
