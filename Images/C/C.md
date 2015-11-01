@@ -198,6 +198,12 @@
 
 <img src="Charis-SIL.png" width="710" height="100" />
 
+###Chasing-Embers
+
+[Chasing-Embers](../../Fonts/C/Chasing-Embers)
+
+<img src="Chasing_Embers.png" width="710" height="100" />
+
 ###Cheddar_Jack
 
 [Cheddar_Jack](../../Fonts/C/cheddar_jack)
